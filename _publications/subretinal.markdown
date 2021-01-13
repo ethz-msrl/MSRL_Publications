@@ -1,33 +1,32 @@
 ---
-layout: post
+layout: publication
 title:  "A Magnetically Navigated Microcannula for Subretinal Injections"
-date:   2020-12-14 18:02:12 +0100
+year: 2020
 authors: 
    - name: Samuel Lucas Charreyron
-     email: samuelch@ethz.ch
+     link: mailto:samuelch@ethz.ch
    - name: Quentin Boehler
-     email: qboehler@ethz.ch
+     link: mailto:qboehler@ethz.ch
    - name: Aschraf Danun
-     email: aschrafdanun@ethz.ch
+     link: mailto:aschrafdanun@ethz.ch
    - name: Alexandre Mesot
-     email: amesot@ethz.ch
+     link: mailto:amesot@ethz.ch
    - name: Matthias Becker
-     email: matthias.becker@triemli.zuerich.ch
+     link: mailto:matthias.becker@triemli.zuerich.ch
    - name: Bradley J. Nelson
-     email: bnelson@ethz.ch
+     link: mailto:bnelson@ethz.ch
 link: https://ieeexplore.ieee.org/abstract/document/9097388
+doi: https://doi.org/10.1109/tbme.2020.2996013" 
 publication_date: 2020-05-20
-journal: IEEE Transactions on Biomedical Engineering
+youtube_link: "https://www.youtube.com/embed/Hs4kEwTsU5U"
+publication: IEEE Transactions on Biomedical Engineering
 status: published
 citation: "Charreyron, S. L., Boehler, Q., Danun, A., Mesot, A., Becker, M., & Nelson, B. J. (2020). A Magnetically
 Navigated Microcannula for Subretinal Injections. IEEE Transactions on Biomedical Engineering.
-https://doi.org/10.1109/tbme.2020.2996013"
-   
+doi: https://doi.org/10.1109/tbme.2020.2996013"
 tags: ophthalmology, catheters, subretinal
 categories: publication
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hs4kEwTsU5U" frameborder="0" allow="accelerometer;
-autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Abstract ##
 Retinal disorders, including age-related macular degeneration, are leading causes of vision loss worldwide. New
@@ -40,8 +39,6 @@ micrometer precision, hand tremor removal, and telemanipulation. The position of
 using near-infrared tip illumination, allowing for semi-automatic placement of the cannula and an intuitive user
 interface. Using this tool, we successfully performed several subretinal injections in ex-vivo porcine eyes under both
 microscope and optical coherence tomography visualization.
-
-## Links ##
 
 ## Bibtex ##
 ~~~

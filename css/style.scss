@@ -1,0 +1,95 @@
+---
+---
+/* modify Bootstrap variables here */
+
+$fa-font-path:        "../fonts/fontawesome";
+
+@import 'bootstrap/bootstrap';
+@import 'fontawesome/fontawesome';
+@import 'fontawesome/brands';
+@import 'fontawesome/solid';
+@import 'fontawesome/regular';
+
+/* add additional CSS rules below */
+/*
+@media (min-width: 38em) {
+    .container {
+          width: 38em;
+            }
+          }
+          */
+.nav-pills .nav-link.active {
+      background-color: #007BB5!important;
+      color: white!important;
+    }
+
+footer {
+  font-size: 0.8rem;
+  color: text-secondary;
+}
+
+h1 {
+  color: #014B68;
+}
+
+/*a {
+  color: #014B68;
+}*/
+
+.publication-info {
+    margin: 0.5rem;
+}
+
+.pubitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+
+.pubtitle a {
+  color: #014B68;
+  margin-bottom: 1.2rem;
+  line-height: 1.8rem;
+  font-weight: bold;
+}
+
+.pubauthors, .pubinfo {
+  font-size: 75%;
+  margin-bottom: .75em;
+}
+
+.pubteaser {
+  clear: both;
+}
+
+.pubteaser a {
+  float: left;
+  margin-right: 2em;
+}
+
+.pubteaser img {
+  width: 100px;
+  border: 1px solid black;
+}
+
+.publinks {
+  font-size: 75%;
+}
+
+.published-badge {
+    margin-right: 0.7rem;
+}
+.publication-title {
+    color: #395082;
+}
+
+.publication-authors {
+    color: #5070b5;
+}
+.publication-authors a {
+    color: #5070b5;
+}
+
+.first-auth {
+   font-weight: bold;
+}
+

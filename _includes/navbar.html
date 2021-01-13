@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand navbar-light">
+  <div class="container">
+    <!--<a class="navbar-brand" href="/index">{{ site.title }}</a>-->
+    <a class="navbar-brand" href="/">
+      <img src="/images/msrl_light_blue.svg" height="40" alt="">
+    </a>
+    <ul class="navbar-nav nav nav-pills">
+      {% for nav in site.data.navigation %}
+      <li class="nav-item">
+        <a {% if nav.url == page.url %} class="active nav-link" {% endif %}
+                                        class="nav-link"
+                                       href="{{ nav.url }}">{{ nav.text
+          }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

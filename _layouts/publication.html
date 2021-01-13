@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="page">
+    <h1 class="mt-4 publication-title">
+        <!--<a href="{{ page.link }}">{{ page.title }}</a>-->
+        {{ page.title }}
+    </h1>
+    <div class="publication-authors">
+        {% for author in page.authors %}
+        {% if forloop.first == true %}
+        <a class="first-auth" href="{{ page.authors.first.link}} ">
+            {{ page.authors.first.name }}
+        </a>, 
+        {% elsif forloop.last == true %}
+            and <a class="auth" href="{{ author.link}}">{{ author.name }}</a>
+        {% else %}
+            <a class="auth" href="{{ author.link }}">{{ author.name }}</a>, 
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div class="publication-info">
+        {% if page.status == "published" %}
+        <span class="published-badge badge badge-pill badge-success">Published</span> 
+        {% endif %}
+
+        {{ page.publication }}, {{ page.year}}
+    </div>
+    <!--<div class="subject-tags">
+        {% for tag in page.tags %} 
+        <span class="badge badge-secondary">
+            {{ tag }}
+        </span>
+        {% endfor}
+    </div>-->
+    <form action="{{ page.link }}">
+        <div class="text-left m-3">
+            <input type="submit" class="btn btn-primary" value="Go to Paper" />
+        </div>
+    </form>
+    {% if page.youtube_link %}
+        <h2>Video</h2>
+        <div class="embed-responsive embed-responsive-16by9 m-3">
+            <iframe class="embed-responsive-item" src="{{ page.youtube_link }}" frameborder="0" allow="accelerometer;
+                                                 autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                                                                allowfullscreen></iframe>
+        </div>
+    {% else %}
+        <div class="publication-teaser">
+            <img src="/images/{{ page.slug }}.png" alt="project teaser" class="img-fluid"/>
+        </div>
+    {% endif %}
+    {{ content }}
+    <h2 id="links">Links</h2>
+    <p>
+    <a href="/download/{{ page.slug }}.pdf"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
+    {% if page.slides %}
+    <a href="/download/{{ page.slug }}_slides.pdf"><i class="far fa-file-pdf"></i> Slides</a>&nbsp;&nbsp;
+    {% endif %}
+    <a href="/download/{{ page.slug }}.bib"><i class="far fa-file-alt"></i> BibTex</a>&nbsp;&nbsp;
+    {% if page.doi %}
+    <a href="{{ page.doi }}"><i class="fas fa-external-link-alt"></i> DOI</a>&nbsp;&nbsp;
+    {% endif %}
+    </p>
+</div>
