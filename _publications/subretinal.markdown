@@ -24,7 +24,7 @@ status: published
 citation: "Charreyron, S. L., Boehler, Q., Danun, A., Mesot, A., Becker, M., & Nelson, B. J. (2020). A Magnetically
 Navigated Microcannula for Subretinal Injections. IEEE Transactions on Biomedical Engineering.
 doi: https://doi.org/10.1109/tbme.2020.2996013"
-tags: ophthalmology, catheters, subretinal
+tags: [ophthalmology, catheters, subretinal]
 categories: publication
 ---
 

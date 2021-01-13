@@ -27,13 +27,15 @@ layout: default
 
         {{ page.publication }}, {{ page.year}}
     </div>
-    <!--<div class="subject-tags">
+    {% if page.tags %}
+    <div class="subject-tags mt-2" >
         {% for tag in page.tags %} 
         <span class="badge badge-secondary">
             {{ tag }}
         </span>
-        {% endfor}
-    </div>-->
+        {% endfor %}
+    </div>
+    {% endif %}
     <form action="{{ page.link }}">
         <div class="text-left m-3">
             <input type="submit" class="btn btn-primary" value="Go to Paper" />
