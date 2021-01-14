@@ -60,9 +60,11 @@ layout: default
     {% if page.slides %}
     <a href="/download/{{ page.slug }}_slides.pdf"><i class="far fa-file-pdf"></i> Slides</a>&nbsp;&nbsp;
     {% endif %}
-    <a href="/download/{{ page.slug }}.bib"><i class="far fa-file-alt"></i> BibTex</a>&nbsp;&nbsp;
     {% if page.doi %}
     <a href="{{ page.doi }}"><i class="fas fa-external-link-alt"></i> DOI</a>&nbsp;&nbsp;
+    {% endif %}
+    {% if page.github_link %}
+    <a href="{{ page.github_link }}"><i class="fab fa-github"></i> GitHub</a>&nbsp;&nbsp;
     {% endif %}
     </p>
 </div>
