@@ -1,6 +1,20 @@
 ---
 ---
 /* modify Bootstrap variables here */
+$msrl_blue: #007BB5;
+$msrl_dark: #005882;
+$msrl_darkest: #002435;
+$msrl_red: #C11329;
+
+$theme-colors: (
+"primary": $msrl_dark,
+);
+
+$body-color: $msrl_darkest;
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600&family=Roboto&display=swap');
+$font-family-base: 'Fira Sans', sans-serif;
+$headings-font-family: 'Roboto', sans-serif;
 
 $fa-font-path:        "../fonts/fontawesome";
 
@@ -18,11 +32,10 @@ $fa-font-path:        "../fonts/fontawesome";
             }
           }
           */
-$msrl_blue: #007BB5;
 
 .nav-pills .nav-link.active {
-      background-color: #007BB5!important;
-      color: white!important;
+      background-color: $msrl_blue!important;
+      //color: white!important;
     }
 
 footer {
@@ -40,11 +53,11 @@ footer {
 }
 
 h1 {
-  color: #014B68;
+  color: $msrl_dark;
 }
 
 h2 {
-  color: #014B68;
+  color: $msrl_dark;
 }
 
 /*a {
@@ -62,7 +75,7 @@ h2 {
 }
 
 .pubtitle a {
-  color: #014B68;
+  //color: #014B68;
   margin-bottom: 1.2rem;
   line-height: 1.8rem;
   font-weight: bold;
@@ -95,14 +108,14 @@ h2 {
     margin-right: 0.7rem;
 }
 .publication-title {
-    color: #395082;
+    //color: #395082;
 }
 
 .publication-authors {
-    color: #5070b5;
+    //color: $msrl_dark;
 }
 .publication-authors a {
-    color: #5070b5;
+    //color: $msrl_dark;
 }
 
 .first-auth {

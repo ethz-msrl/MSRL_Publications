@@ -4,7 +4,7 @@
     <a class="navbar-brand" href="/">
       <img src="/images/msrl_light_blue.svg" height="40" alt="">
     </a>
-    <ul class="navbar-nav nav nav-pills">
+    <ul class="nav nav-pills">
       {% for nav in site.data.navigation %}
       <li class="nav-item">
         <a {% if nav.url == page.url %} class="active nav-link" {% endif %}
