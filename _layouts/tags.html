@@ -1,8 +1,0 @@
-{% assign collection_tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
-<p>{{site.tags}}</p>
-
-    <ul class="tags">
-        {% for tag in collection_tags %}
-            <li><a href="#{{ tag | slugify: 'pretty' }}" class="tag">{{ tag }}<span>({{ site.tags[tag].size }})</span></a></li>
-        {% endfor %}
-    </ul>

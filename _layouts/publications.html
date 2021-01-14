@@ -6,7 +6,7 @@ title: Publications
 <h1 class="mt-4">
     Publications
 </h1>
-{% assign publications = site.publications | sort: "year" | reverse %}
+{% assign publications = site.posts | sort: "year" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
     <div class="pubteaser">
@@ -37,3 +37,5 @@ title: Publications
     </div>
 </div>
 {% endfor %}
+
+{% include tag_cloud.html %}

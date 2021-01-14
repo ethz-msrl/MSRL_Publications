@@ -28,9 +28,9 @@ layout: default
     {% if page.tags %}
     <div class="subject-tags mt-2" >
         {% for tag in page.tags %} 
-        <span class="badge badge-secondary">
+        <a href="/tag/{{tag}}" class="badge badge-secondary">
             {{ tag }}
-        </span>
+        </a>
         {% endfor %}
     </div>
     {% endif %}

@@ -64,3 +64,6 @@ collections:
 sass:
   sass_dir: css
   style:    compressed
+
+tag_page_layout: tag_page
+tag_page_dir: tag
