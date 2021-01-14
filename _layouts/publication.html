@@ -9,10 +9,8 @@ layout: default
     </h1>
     <div class="publication-authors">
         {% for author in page.authors %}
-        {% if forloop.first == true %}
-        <a class="first-auth" href="{{ page.authors.first.link}} ">
-            {{ page.authors.first.name }}
-        </a>, 
+        {% if author.first_author == true %}
+        <a class="first-auth" href="{{ page.authors.first.link}} ">{{page.authors.first.name}}</a>, 
         {% elsif forloop.last == true %}
             and <a class="auth" href="{{ author.link}}">{{ author.name }}</a>
         {% else %}
@@ -37,7 +35,7 @@ layout: default
     </div>
     {% endif %}
     <form action="{{ page.link }}">
-        <div class="text-left m-3">
+        <div class="text-left mt-3 mb-3">
             <input type="submit" class="btn btn-primary" value="Go to Paper" />
         </div>
     </form>

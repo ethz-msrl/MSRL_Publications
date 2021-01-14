@@ -3,8 +3,9 @@ layout: publication
 title:  "A Magnetically Steered Endolaser Probe for Automated Panretinal Photocoagulation"
 year: 2019
 authors: 
-   - name: Samuel Lucas Charreyron
+   - name: Samuel L. Charreyron
      link: samuelch@ethz.ch
+     first_author: true
    - name: Quentin Boehler
      link: qboehler@ethz.ch
    - name: Edoardo Gabbi

@@ -18,6 +18,8 @@ $fa-font-path:        "../fonts/fontawesome";
             }
           }
           */
+$msrl_blue: #007BB5;
+
 .nav-pills .nav-link.active {
       background-color: #007BB5!important;
       color: white!important;
@@ -26,6 +28,15 @@ $fa-font-path:        "../fonts/fontawesome";
 footer {
   font-size: 0.8rem;
   color: text-secondary;
+}
+
+.btn-primary {
+    @include button-variant($msrl_blue, darken($msrl_blue, 7.5%), darken($msrl_blue, 10%),
+    lighten($msrl_blue,5%), lighten($msrl_blue, 10%), darken($msrl_blue,30%));
+}
+
+.btn-outline-primary {
+        @include button-outline-variant($msrl_blue, #222222, lighten($msrl_blue,5%), $msrl_blue);
 }
 
 h1 {
@@ -41,7 +52,8 @@ h2 {
 }*/
 
 .publication-info {
-    margin: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .pubitem {

@@ -2,9 +2,11 @@
 layout: publication
 title:  "A Magnetically Navigated Microcannula for Subretinal Injections"
 year: 2020
+
 authors: 
-   - name: Samuel Lucas Charreyron
+   - name: Samuel L. Charreyron
      link: mailto:samuelch@ethz.ch
+     first_author: true
    - name: Quentin Boehler
      link: mailto:qboehler@ethz.ch
    - name: Aschraf Danun
