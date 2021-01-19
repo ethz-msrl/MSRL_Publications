@@ -6,7 +6,7 @@ layout: default
 <h2 class="mt-4">{{ titlecase }}</h2>
 <ul>
 {% for post in page.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% include pubitem.html %}
 {% endfor %}
 </ul>
 

@@ -15,39 +15,7 @@ title: Publications
     <ul>
     {% endif %}
 
-<div class="pubitem">
-    <div class="pubteaser">
-        <a href="{{post.url}}">
-            <img src="/images/{{ post.slug }}_small.png" alt="{{post.slug}} publication teaser" class="img-thumbnail"/>
-        </a>
-    </div>
-    <div class="pubtitle">
-        <a href="{{ post.url }}">
-            {{ post.title }}
-        </a>
-    </div>
-    <div class="pubauthors">
-        {% for pauthor in post.authors %}
-        {%- assign author = site.authors | where: "name": pauthor | first -%}
-        {% if forloop.last == true %}
-        and <a href="{{author.url}}">
-            {{ author.name }}
-        </a>
-        {% else %}
-        <a href="{{ author.url }}">
-        {{ author.name }}
-        </a>, 
-        {% endif %}
-        {% endfor %}
-    </div>
-    <div class="pubinfo">
-        {{ post.publication }}, {{ post.year}}
-    </div>
-    <div class="publinks">
-        <a href="/download/{{ post.slug}}.pdf"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
-        <a href="{{post.url}}"><i class="fas fa-link"></i> Project Page</a>
-    </div>
-</div>
+    {% include pubitem.html %}
 
     {% if forloop.last %}
     </ul>
