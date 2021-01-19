@@ -4,3 +4,9 @@ layout: default
 
 <h1 class="author-title mt-4"> {{ page.name }}
 </h1>
+
+<h2>Publications</h2>
+{% assign posts = site.posts | where_exp:"item", "item.authors contains page.name" %}
+{% for post in posts %}
+{% include pubitem.html %}
+{% endfor %}
