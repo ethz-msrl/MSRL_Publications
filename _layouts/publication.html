@@ -8,13 +8,14 @@ layout: default
         {{ page.title }}
     </h1>
     <div class="publication-authors">
-        {% for author in page.authors %}
-        {% if author.first_author == true %}
-        <a class="first-auth" href="{{ page.authors.first.link}} ">{{page.authors.first.name}}</a>, 
+        {% for pauthor in page.authors %}
+        {%- assign author = site.authors | where: "name": pauthor | first -%}
+        {% if page.first_authors contains author.name %}
+        <a class="first-auth" href="{{author.url}}">{{author.name}}</a>, 
         {% elsif forloop.last == true %}
-            and <a class="auth" href="{{ author.link}}">{{ author.name }}</a>
+        and <a class="auth" href="{{author.url}}">{{ author.name }}</a>
         {% else %}
-            <a class="auth" href="{{ author.link }}">{{ author.name }}</a>, 
+            <a class="auth" href="{{author.url}}">{{ author.name }}</a>, 
         {% endif %}
         {% endfor %}
     </div>

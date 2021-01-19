@@ -27,11 +27,16 @@ title: Publications
         </a>
     </div>
     <div class="pubauthors">
-        {% for author in post.authors %}
+        {% for pauthor in post.authors %}
+        {%- assign author = site.authors | where: "name": pauthor | first -%}
         {% if forloop.last == true %}
-        and {{ author.name }}
+        and <a href="{{author.url}}">
+            {{ author.name }}
+        </a>
         {% else %}
-        {{ author.name }}, 
+        <a href="{{ author.url }}">
+        {{ author.name }}
+        </a>, 
         {% endif %}
         {% endfor %}
     </div>

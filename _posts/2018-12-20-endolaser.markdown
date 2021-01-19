@@ -3,17 +3,12 @@ layout: publication
 title:  "A Magnetically Steered Endolaser Probe for Automated Panretinal Photocoagulation"
 year: 2019
 authors: 
-   - name: Samuel L. Charreyron
-     link: samuelch@ethz.ch
-     first_author: true
-   - name: Quentin Boehler
-     link: qboehler@ethz.ch
-   - name: Edoardo Gabbi
-     link: egabbi@student.ethz.ch
-   - name: Matthias Becker
-     link: matthias.becker@triemli.zuerich.ch
-   - name: Bradley J. Nelson
-     link: bnelson@ethz.ch
+   - Samuel L. Charreyron
+   - Quentin Boehler
+   - Edoardo Gabbi
+   - Matthias Becker
+   - Bradley J. Nelson
+first_authors: Samuel L. Charreyron
 link: https://ieeexplore.ieee.org/document/8584045
 publication_date: 2018-12-20
 youtube_link: "https://www.youtube.com/embed/tn3S35KEDWM"
@@ -23,7 +18,7 @@ citation: "Charreyron, S. L., Boehler, Q., Danun, A., Mesot, A., Becker, M., & N
 Navigated Microcannula for Subretinal Injections. IEEE Transactions on Biomedical Engineering.
 doi: https://doi.org/10.1109/tbme.2020.2996013"
    
-tags: [ ophthalmology, catheters, endolaser, diabetic retinopathy]
+tags: [ ophthalmology, catheters, endolaser, diabetic-retinopathy]
 categories: publication
 ---
 

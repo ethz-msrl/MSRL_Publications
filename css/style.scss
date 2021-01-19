@@ -5,9 +5,11 @@ $msrl_blue: #007BB5;
 $msrl_dark: #005882;
 $msrl_darkest: #002435;
 $msrl_red: #C11329;
+$msrl_light: #3A96C1;
 
 $theme-colors: (
 "primary": $msrl_dark,
+"info": $msrl-light,
 );
 
 $body-color: $msrl_darkest;

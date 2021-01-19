@@ -57,7 +57,10 @@ minima:
   date_format: "%b %-d, %Y"
 
 collections:
-  publications:
+  #publications:
+  #  output: true
+  #  permalink: /:collection/:name
+  authors:
     output: true
     permalink: /:collection/:name
 
