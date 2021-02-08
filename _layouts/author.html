@@ -6,38 +6,24 @@ layout: default
 </h1>
 
 <div class="row">
+    {% if page.img_filename %}
     <div class="col-md-4 my-auto">
-        {% if page.img_address %}
-        <img class="img-fluid rounded float-left" src="{{ page.img_address }}" alt="Author Photo">
-        {% else %}
-        <img class="img-fluid rounded float-left" src="https://via.placeholder.com/300" alt="Author Photo">
-        {% endif %}
+        <img class="img-fluid rounded float-left" src="/images/{{ page.img_filename }}" alt="Author Photo">
     </div>
+    {% endif %}
     <div class="col-md-8">
+        {% if page.biography %}
         <h2 class="mt-4">Biography</h2>
-        <p> 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut semper nisl. Curabitur dictum risus augue,
-        semper varius felis placerat a. Nunc tincidunt, velit vel laoreet blandit, lacus est placerat purus, at finibus
-        felis metus eget tellus. Nunc placerat vestibulum maximus. Vivamus nulla felis, mattis nec elementum rhoncus,
-        scelerisque vitae libero. Mauris ut vulputate neque, a pulvinar neque. Morbi vestibulum fringilla aliquam.
-        Nullam finibus elit vitae neque mollis tincidunt nec et eros. Cras est erat, ultricies dictum lacinia non,
-        rutrum in odio. Curabitur quis interdum leo, nec sodales lectus. Donec a ante massa.
-        </p>
         <p>
-        Fusce convallis dui magna, eu dignissim nibh imperdiet et. In imperdiet sollicitudin euismod. Aliquam non ipsum
-        et sapien mattis commodo nec ac elit. Morbi mollis pharetra luctus. Sed fermentum ligula dui. Integer lacinia
-        imperdiet semper. Integer vitae turpis urna. Aliquam vitae risus pulvinar, rutrum purus vitae, commodo nulla.
-        Mauris blandit placerat risus, nec sodales diam lacinia nec. Vestibulum et eleifend magna. In egestas magna et
-        fermentum rhoncus. Praesent risus tortor, pharetra ut elit sed, auctor porta augue. Interdum et malesuada fames
-        ac ante ipsum primis in faucibus.
-
-
+        {{ page.biography }}
+        </p>
+        {% endif %}
     </div>
 </div>
 
 {{ content }}
 
-<h2 id="links">Contact</h2>
+<h2 id="links" class="mt-4">Contact</h2>
 <p>
 <a href="mailto:{{page.email}}"><i class="fas fa-inbox"></i> Email</a>&nbsp;&nbsp;
 {% if page.github %}
@@ -46,13 +32,16 @@ layout: default
 {% if page.google_scholar %}
 <a href="{{ page.google_scholar }}"><i class="fab fa-google"></i> Google Scholar</a>&nbsp;&nbsp;
 {% endif %}
+{% if page.researchgate %}
+<a href="{{ page.researchgate }}"><i class="fab fa-researchgate"></i> ResearchGate</a>&nbsp;&nbsp;
+{% endif %}
 {% if page.twitter %}
 <a href="{{ page.twitter }}"><i class="fab fa-twitter"></i> Twitter</a>&nbsp;&nbsp;
 {% endif %}
 </p>
 
 
-<h2 class="my-4">Publications</h2>
+<h2 class="mt-4">Publications</h2>
 {% assign posts = site.posts | where_exp:"item", "item.authors contains page.name" %}
 {% for post in posts %}
 {% include pubitem.html %}
