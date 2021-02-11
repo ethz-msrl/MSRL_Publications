@@ -1,7 +1,7 @@
-- text: Home
-  url: /
 - text: Publications
-  url: /publications.html
+  url: /
+    #- text: Publications
+    #  url: /publications.html
 - text: Authors
   url: /authors.html
 - text: About
