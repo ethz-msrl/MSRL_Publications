@@ -1,18 +1,18 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h1 class="mt-4">About</h1>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The [Multi Scale Robotics Lab](https://msrl.ethz.ch) (MSRL) is part of the Institute of Robotics and Intelligent Systems at ETH
+Zurich and is headed by Prof. Brad Nelson. The MSRL pursues a dynamic research program
+that maintains a strong robotics research focus on several emerging areas of science and technology. A major component
+of the MSRL research leverages advanced robotics for creating intelligent machines that operate at micron and nanometer
+scales. MSRL research develops the tools and processes required to fabricate and assemble micron sized robots and
+nanometer scale robotic components. Many of these systems are used for robotic exploration within biomedical and
+biological domains.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This page is generated using [Jekyll](https://jekyllrb.com/) and is styled using
+[Bootstrap](https://getbootstrap.com/).
