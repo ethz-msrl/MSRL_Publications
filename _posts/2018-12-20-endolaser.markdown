@@ -10,6 +10,7 @@ authors:
    - Bradley J. Nelson
 first_authors: Samuel L. Charreyron
 link: https://ieeexplore.ieee.org/document/8584045
+rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/334952/RA_L_ICRA_2019_preprint.pdf
 publication_date: 2018-12-20
 youtube_link: "https://www.youtube.com/embed/tn3S35KEDWM"
 publication: IEEE Robotics and Automation Letters

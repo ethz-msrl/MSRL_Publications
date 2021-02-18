@@ -15,6 +15,7 @@ link: https://ieeexplore.ieee.org/abstract/document/9097388
 doi: https://doi.org/10.1109/tbme.2020.2996013" 
 publication_date: 2020-05-20
 youtube_link: "https://www.youtube.com/embed/Hs4kEwTsU5U"
+rc_pdf_link: "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/416852/Subretinal_TBME.pdf"
 publication: IEEE Transactions on Biomedical Engineering
 status: published
 citation: "Charreyron, S. L., Boehler, Q., Danun, A., Mesot, A., Becker, M., & Nelson, B. J. (2020). A Magnetically
