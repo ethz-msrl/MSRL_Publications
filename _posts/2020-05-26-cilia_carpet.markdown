@@ -24,7 +24,7 @@ youtube_link: "https://www.youtube.com/embed/qDyLXG9BlZQ"
 publication_date: 2020-05-26
 publication: Nature Communications
 status: published
-citation: "Gu, H., Cui, H., Secchi, E., Savorana, G., De Marco, C., Gervasoni, S., Peyron, Q., Huang, T., Pane, S., Ahmed, D.  & Nelson, B.J. (2020). 
+citation: "Gu, H. et al. (2020). 
 Magnetic cilia carpets with programmable metachronal waves. Nature Communications , 11(1), 2637.
 doi: https://doi.org/10.1038/s41467-020-16458-4"
 
@@ -42,7 +42,7 @@ Metachronal waves commonly exist in natural cilia carpets. These emergent phenom
 ~~~
 @article{Gu2020,
   title={Magnetic cilia carpets with programmable metachronal waves},
-  author={Gu, Hongri and Boehler, Quentin and Cui, Haoyang and Secchi, Eleonora and Savorana, Giovanni and De Marco, Carmela and Gervasoni, Simone and Peyron, Quentin and Huang, Tian-Yun and Pane, Salvador and Nelson, Bradley J.},
+  author={Gu, Hongri and Boehler, Quentin and Cui, Haoyang and Secchi, Eleonora and Savorana, Giovanni and De Marco, Carmela and Gervasoni, Simone and Peyron, Quentin and Huang, Tian-Yun and Pane, Salvador and Hirt, Ann M. and Ahmed, Daniel, and Nelson, Bradley J.},
   journal={Nature communications},
   volume={11},
   number={1},
