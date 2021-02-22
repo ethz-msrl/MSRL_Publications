@@ -38,13 +38,38 @@ Metachronal waves commonly exist in natural cilia carpets. These emergent phenom
 
 ## Media coverage ##
 
-<iframe src="https://www.youtube.com/embed/DyLXG9BlZQ" frameborder="0" allowfullscreen></iframe>
+### Reuters ###
+
+How would feel about letting a robotic millipede loose in your intestines, free to explore your insides? Slightly reluctant perhaps? That is one of the proposed applications of a new kind of robot that mimics both the way a millipede walks and the way the human body uses tiny hairs, called cilia, to moves particles around inside us.
+
+More information [here](https://www.reuters.com/video/watch/would-you-let-a-robot-millipede-in-your-id720306122?edition-redirect=uk).
+
+<iframe src="https://www.youtube.com/embed/qDyLXG9BlZQ" frameborder="0" allowfullscreen></iframe>
+
+### South China Morning Post ###
+
+Would you let this 'millipede' in your body?
+
+<iframe src="https://www.youtube.com/embed/TgiZsngohqo" frameborder="0" allowfullscreen></iframe>
+
+### ETH News ###
+
+ETH Zurich engineers have created a magnetically controllable cilia carpet that can move like a millipede. Watch the following video.
+
+<iframe src="https://www.youtube.com/embed/FLfrd2Wr5p0" frameborder="0" allowfullscreen></iframe>
+
+### ETH 2020 Highlight ###
+
+An extraordinary year is drawing to a close. ETH News takes a look back at the highlights that emerged amidst difficult and unsettling times, at ingenious ideas, fascinating science and solidarity in action during – and despite – the coronavirus pandemic.
+
+<iframe src="https://www.youtube.com/embed/Zl0psH_CdlY" frameborder="0" allowfullscreen></iframe>
+
 
 ## Bibtex ##
 ~~~
 @article{Gu2020,
   title={Magnetic cilia carpets with programmable metachronal waves},
-  author={Gu, Hongri and Boehler, Quentin and Cui, Haoyang and Secchi, Eleonora and Savorana, Giovanni and De Marco, Carmela and Gervasoni, Simone and Peyron, Quentin and Huang, Tian-Yun and Pane, Salvador and others},
+  author={Gu, Hongri and Boehler, Quentin and Cui, Haoyang and Secchi, Eleonora and Savorana, Giovanni and De Marco, Carmela and Gervasoni, Simone and Peyron, Quentin and Huang, Tian-Yun and Pane, Salvador and Nelson, Bradley J.},
   journal={Nature communications},
   volume={11},
   number={1},
