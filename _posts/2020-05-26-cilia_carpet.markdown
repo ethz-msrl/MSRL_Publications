@@ -3,7 +3,7 @@ layout: publication
 title:  "Magnetic cilia carpets with programmable metachronal waves"
 year: 2020
 authors: 
-   - Hongri
+   - Hongri Gu
    - Quentin Boehler
    - Haoyang Cui
    - Eleonora Secchi
@@ -33,10 +33,28 @@ tags: [ cilia, metachronal waves ]
 categories: publication
 ---
 
+In this project, we developed a highly customizable soft robotic system for cilia research. Unlike existing artificial cilia, we provide a simple method to fabricate hundreds of customized magnetic cilia with programmable metachronal waves. This level of system integration and complexity was only accessible with computer simulations before. To prove the capability of this soft robotic platform, we experimentally confirm two major numerical findings of fluidic transport on cilia carpet (Osterman et. al., PNAS, 2011; Elgeti et. al., PNAS, 2013), for the first time. Furthermore, we show the metachronal waves can propel a soft robot inspired by giant African millipede. We believe this robotic platform provides a powerful tool to spark new discoveries in fundamental cilia research, as well as inspiring new soft robotic designs for biomedical applications.
+
 ## Abstract ##
 Metachronal waves commonly exist in natural cilia carpets. These emergent phenomena, which originate from phase differences between neighbouring self-beating cilia, are essential for biological transport processes including locomotion, liquid pumping, feeding, and cell delivery. However, studies of such complex active systems are limited, particularly from the experimental side. Here we report magnetically actuated, soft, artificial cilia carpets. By stretching and folding onto curved templates, programmable magnetization patterns can be encoded into artificial cilia carpets, which exhibit metachronal waves in dynamic magnetic fields. We have tested both the transport capabilities in a fluid environment and the locomotion capabilities on a solid surface. This robotic system provides a highly customizable experimental platform that not only assists in understanding fundamental rules of natural cilia carpets, but also paves a path to cilia-inspired soft robots for future biomedical applications.
 
+## Bibtex ##
+~~~
+@article{Gu2020,
+  title={Magnetic cilia carpets with programmable metachronal waves},
+  author={Gu, Hongri and Boehler, Quentin and Cui, Haoyang and Secchi, Eleonora and Savorana, Giovanni and De Marco, Carmela and Gervasoni, Simone and Peyron, Quentin and Huang, Tian-Yun and Pane, Salvador and Nelson, Bradley J.},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={1--10},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+~~~
+
 ## Media coverage ##
+
+The paper had been covered by the following media 
 
 ### Reuters ###
 
@@ -64,17 +82,3 @@ An extraordinary year is drawing to a close. ETH News takes a look back at the h
 
 <iframe src="https://www.youtube.com/embed/Zl0psH_CdlY" frameborder="0" allowfullscreen></iframe>
 
-
-## Bibtex ##
-~~~
-@article{Gu2020,
-  title={Magnetic cilia carpets with programmable metachronal waves},
-  author={Gu, Hongri and Boehler, Quentin and Cui, Haoyang and Secchi, Eleonora and Savorana, Giovanni and De Marco, Carmela and Gervasoni, Simone and Peyron, Quentin and Huang, Tian-Yun and Pane, Salvador and Nelson, Bradley J.},
-  journal={Nature communications},
-  volume={11},
-  number={1},
-  pages={1--10},
-  year={2020},
-  publisher={Nature Publishing Group}
-}
-~~~
