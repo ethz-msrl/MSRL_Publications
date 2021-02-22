@@ -1,5 +1,5 @@
 ---
 layout: author
-name: Nicolas Andredd
+name: Nicolas Andreff
 email: nicolas.andreff@femto-st.fr
 ---
