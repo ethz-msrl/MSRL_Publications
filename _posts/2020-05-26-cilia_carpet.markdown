@@ -38,11 +38,9 @@ Metachronal waves commonly exist in natural cilia carpets. These emergent phenom
 
 ## Media coverage ##
 
-<div class="embed-responsive embed-responsive-16by9 m-3">
-    <iframe class="embed-responsive-item" src="{https://www.youtube.com/embed/DyLXG9BlZQ}" frameborder="0" allow="accelerometer;
+<iframe class="embed-responsive-item" src="{https://www.youtube.com/embed/DyLXG9BlZQ}" frameborder="0" allow="accelerometer;
                                           autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                                                                         allowfullscreen></iframe>
-</div>
 
 ## Bibtex ##
 ~~~
