@@ -13,13 +13,18 @@
         {% for pauthor in post.authors %}
         {%- assign author = site.authors | where: "name": pauthor | first -%}
         {% if forloop.last == true %}
-        and <a href="{{author.url}}">
-            {{ author.name }}
-        </a>
+        and 
+        {% if author %}
+        <a href="{{author.url}}"> {{ author.name }} </a>
         {% else %}
-        <a href="{{ author.url }}">
-        {{ author.name }}
-        </a>, 
+        <span> {{ pauthor }} </span>
+        {% endif %}
+        {% else %}
+            {% if author %}
+                <a href="{{ author.url }}"> {{ author.name }}</a>, 
+            {% else %}
+                <span> {{ pauthor }} </span>, 
+            {% endif %}
         {% endif %}
         {% endfor %}
     </div>
