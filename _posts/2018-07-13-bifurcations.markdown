@@ -18,7 +18,7 @@ publication: IEEE Robotics and Automation Letters
 status: published
 citation: "Peyron, Q., Boehler, Q., Rabenorosoa, K., Nelson, B. J., Renaud, P., & Andreff, N. (2018). 
 Kinematic analysis of magnetic continuum robots using continuation method and bifurcation analysis. IEEE Robotics and Automation Letters, 3(4), 3646-3653.
-doi: http://doi.org/10.1109/lra.2018.2855803"
+doi: https://doi.org/10.1109/lra.2018.2855803"
 
 
 tags: [ kinematics, catheters, continuum robots ]
