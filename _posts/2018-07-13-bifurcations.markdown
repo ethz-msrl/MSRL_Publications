@@ -21,7 +21,7 @@ Kinematic analysis of magnetic continuum robots using continuation method and bi
 doi: https://doi.org/10.1109/lra.2018.2855803"
 
 
-tags: [ kinematics, catheters, continuum robots ]
+tags: [ kinematics, catheters, continuum-robots ]
 categories: publication
 ---
 

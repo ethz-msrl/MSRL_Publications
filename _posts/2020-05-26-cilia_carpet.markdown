@@ -20,7 +20,7 @@ authors:
 first_authors: Hongri Gu
 link: https://www.nature.com/articles/s41467-020-16458-4
 rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/416847/1/cilia_naturcom_2020.pdf
-youtube_link: "https://www.youtube.com/embed/qDyLXG9BlZQ"
+youtube_link: "https://www.youtube.com/embed/KYnPDR8bgt0"
 publication_date: 2020-05-26
 publication: Nature Communications
 status: published
@@ -29,7 +29,7 @@ Magnetic cilia carpets with programmable metachronal waves. Nature Communication
 doi: https://doi.org/10.1038/s41467-020-16458-4"
 
 
-tags: [ cilia, metachronal waves ]
+tags: [ cilia, metachronal-waves ]
 categories: publication
 ---
 
@@ -60,7 +60,11 @@ The paper had been covered by the following media
 
 How would feel about letting a robotic millipede loose in your intestines, free to explore your insides? Slightly reluctant perhaps? That is one of the proposed applications of a new kind of robot that mimics both the way a millipede walks and the way the human body uses tiny hairs, called cilia, to moves particles around inside us.
 
-More information [here](https://www.reuters.com/video/watch/would-you-let-a-robot-millipede-in-your-id720306122?edition-redirect=uk).
+Video available [here](https://www.reuters.com/video/watch/would-you-let-a-robot-millipede-in-your-id720306122?edition-redirect=uk).
+
+### Inside Edition, CBS ###
+
+A team in Switzerland has developed a robot that moves just like a millipede. The Swiss Federal Institute of Technology recently unveiled its so-called ‘soft robot,’ which was inspired by millipedes. PhD student Richard Gu said, “This soft robot can actually generate a wave between the legs and actually propel to move forward using the same mechanism as a millipede walking.” He added that the technology may one day be used to deliver medical treatment from within people’s bodies.
 
 <iframe src="https://www.youtube.com/embed/qDyLXG9BlZQ" frameborder="0" allowfullscreen></iframe>
 
