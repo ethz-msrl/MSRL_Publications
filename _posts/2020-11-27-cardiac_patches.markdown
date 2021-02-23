@@ -13,10 +13,10 @@ first_authors: Hongri Gu
 link: https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202000726
 rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/453540/advs.202000726(2).pdf
 youtube_link: "https://www.youtube.com/embed/YDUxdKEWE9s"
-publication_date: 2020-10-30
-publication: Science Robotics
+publication_date: 2020-11-27
+publication: Advanced Science
 status: published
-citation: "Gu, H. et al. (2020). 
+citation: "Gu, H. et al. (2021). 
 Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ventricular Assist Device. Advanced Science 8(1).
 doi: https://doi.org/10.1002/advs.202000726"
 
@@ -30,7 +30,7 @@ atients suffering from heart failure often require circulatory support using ven
 
 ## Bibtex ##
 ~~~
-@article{Gu2020,
+@article{Gu2021,
 author = {Gu, Hongri and Bertrand, Thibaud and Boehler, Quentin and Chautems, Christophe and Vasilyev, Nikolay V. and Nelson, Bradley J.},
 title = {Magnetically Active Cardiac Patches as an Untethered, Non-Blood Contacting Ventricular Assist Device},
 journal = {Advanced Science},
