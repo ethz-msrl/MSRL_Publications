@@ -35,7 +35,11 @@ layout: default
     </div>
     <div class="publication-info">
         {% if page.status == "published" %}
-        <span class="published-badge badge badge-pill badge-success">Published</span> 
+        <span class="pub-info-badge badge badge-pill badge-success">Published</span> 
+        {% else if page.status == "in review" %}
+        <span class="pub-info-badge badge badge-pill badge-warning">In Review</span> 
+        {% else if page.status == "preprint" %}
+        <span class="pub-info-badge badge badge-pill badge-info">In Review</span> 
         {% endif %}
 
         {{ page.publication }}, {{ page.year}}
