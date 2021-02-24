@@ -34,8 +34,8 @@ First, you are going to add your files on a site that is only for preview, and i
 ![New branch](documentation/new_branch.png)
 
 - Upload the paper file in the folder ```_posts``` 
-- Upload the authors files in the folder ```_authors```
-- Upload the images files in the folder ```images``
+- Upload the author files in the folder ```_authors```
+- Upload the images files in the folder ```images```
 
 To upload a file:
 - Go to the desired folder
