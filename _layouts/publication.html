@@ -54,6 +54,7 @@ layout: default
             <input type="submit" class="btn btn-primary" value="Go to Paper" />
         </div>
     </form>
+    <div class="clearfix">
     {% if page.youtube_link %}
         <h2>Video</h2>
         <div class="embed-responsive embed-responsive-16by9 m-3">
@@ -62,11 +63,12 @@ layout: default
                                                                                                 allowfullscreen></iframe>
         </div>
     {% else %}
-        <div class="publication-teaser">
-            <img src="/images/{{ page.slug }}.png" alt="project teaser" class="img-fluid"/>
+        <div class="publication-teaser float-left">
+            <img src="/images/{{ page.slug }}.png" alt="project teaser" class="p-3 img-fluid"/>
         </div>
     {% endif %}
     {{ content }}
+    </div>
     <h2 id="links">Links</h2>
     <p>
     <a href="{{ page.rc_pdf_link }}"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
