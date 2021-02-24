@@ -44,6 +44,7 @@ First, you are going to add your files on a site that is only for preview, and i
 To upload a file:
 - Go to the desired folder
 - Click 'Add file/Upload files' (upper-right corner)
+- Add your file(s)
 - Click 'Commit changes'
 
 ### Submit files
