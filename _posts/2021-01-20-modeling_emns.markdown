@@ -13,7 +13,7 @@ first_authors: Samuel L. Charreyron
 link: https://ieeexplore.ieee.org/document/9329101
 rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/468301/Modeling_Electromagnetic_Navigation_Systems.pdf
 publication_date: 2021-01-21
-publication: IEEE Robotics and Automation Letters
+publication: IEEE Transactions on Robotics
 status: published
 github_link: https://github.com/ethz-msrl/Modeling_eMNS
 doi: https://doi.org/10.1109/TRO.2020.3047053 
