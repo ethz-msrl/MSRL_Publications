@@ -2,7 +2,7 @@
 
 This repository contains the files to advertise your publications on the website as a member of MSRL.
 
-TODO: LINK TO THE PUBLISHED SITE
+TODO: ADD LINK TO THE PUBLISHED SITE
 
 ## Prepare the entry
 
@@ -11,15 +11,15 @@ TODO: LINK TO THE PUBLISHED SITE
 - Prepare a the teaser for your paper
    - Prepare your teaser video and upload it on the Youtube channel from MSRL (credentials available [here](https://wiki.msrl.ethz.ch/index.php/MSRL_Members:Youtube)) <br>
    OR
-   - Prepare an image ```<name>.png```  (RESOLUTION ?) 
+   - Prepare an image ```<name>.png```  (MIN/MAX RESOLUTION ?) 
 - Prepare a 150 x 150 icon image ```<name_small>.png``` (displayed next to the publication entry on the website main page)
 
 Additionnaly, you are strongly encouraged to prepare richer content for the webpage (e.g. links to other website where the work has been advertised, link to open source code or dataset, extra videos uploaded on Youtube...)
 
 ### Prepare the files
 
-- Download the publication template file ```publication-template.markdown```
-- Download the author template file ```author-template.markdown```
+- Download the publication template file ```_posts/template.markdown```
+- Download the author template file ```_authors/template.markdown```
 - Create a file ```<publication_date-name>.markdown``` based on the publication template and fill it in with the required information
 - Create as many authors files ```<firstname_lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the required information
 
@@ -29,7 +29,7 @@ First, you are going to add your files on a site that is only for preview, and i
 
 ### Upload files
 
-- Create a new branch (upper-left corner) (NAME?)
+- Create a new branch (upper-left corner)
 
 ![New branch](documentation/new_branch.png)
 
