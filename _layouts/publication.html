@@ -9,13 +9,27 @@ layout: default
     </h1>
     <div class="publication-authors">
         {% for pauthor in page.authors %}
-        {%- assign author = site.authors | where: "name": pauthor | first -%}
+        {% assign author = site.authors | where: "name": pauthor | first %}
+
         {% if page.first_authors contains author.name %}
-        <a class="first-auth" href="{{author.url}}">{{author.name}}</a>, 
+            {% if author %}
+            <a class="first-auth" href="{{author.url}}">{{author.name}}</a>, 
+            {% else %}
+            <span class="first-auth">{{pauthor}}</span>
+            {% endif %}
         {% elsif forloop.last == true %}
-        and <a class="auth" href="{{author.url}}">{{ author.name }}</a>
+            and 
+            {% if author %}
+            <a class="auth" href="{{author.url}}">{{ author.name }}</a>
+            {% else %}
+                <span class=auth">{{pauthor}}</span>
+            {% endif %}
         {% else %}
+            {% if author %}
             <a class="auth" href="{{author.url}}">{{ author.name }}</a>, 
+            {% else %}
+                <span class=auth">{{pauthor}}</span>,
+            {% endif %}
         {% endif %}
         {% endfor %}
     </div>
@@ -40,6 +54,7 @@ layout: default
             <input type="submit" class="btn btn-primary" value="Go to Paper" />
         </div>
     </form>
+    <div class="clearfix">
     {% if page.youtube_link %}
         <h2>Video</h2>
         <div class="embed-responsive embed-responsive-16by9 m-3">
@@ -48,11 +63,12 @@ layout: default
                                                                                                 allowfullscreen></iframe>
         </div>
     {% else %}
-        <div class="publication-teaser">
-            <img src="/images/{{ page.slug }}.png" alt="project teaser" class="img-fluid"/>
+        <div class="publication-teaser float-left">
+            <img src="/images/{{ page.slug }}.png" alt="project teaser" class="p-3 img-fluid"/>
         </div>
     {% endif %}
     {{ content }}
+    </div>
     <h2 id="links">Links</h2>
     <p>
     <a href="{{ page.rc_pdf_link }}"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;

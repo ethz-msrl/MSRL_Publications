@@ -42,7 +42,7 @@ Magnetic dipole-dipole interactions govern the behavior of magnetic matter acros
 
 ## Media coverage ##
 
-### ETH News ###
+####  ETH News #### 
 
 The article has been covered in the ETH news [here](https://ethz.ch/en/news-and-events/eth-news/news/2019/11/magnets-for-the-second-dimension.html).
 
