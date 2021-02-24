@@ -21,7 +21,7 @@ Additionnaly, you are strongly encouraged to prepare richer content for the webp
 - Download the publication template file ```_posts/template.markdown```
 - Download the author template file ```_authors/template.markdown```
 - Create a file ```<publication_date>-<publication_name>.markdown``` based on the publication template and fill it in with the required information. Publication date ```<publication_date>``` must be in yyyy-mm-dd format. Make sure to put a dash between the date and the filename.
-- Create as many authors files ```<firstname<_<lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the author's full name at least. *Make sure the full name matches the author names in the posts exactly*. For members of the group, it can make more sense to put more info up there like links to your researchgate profile, a picture, biography and whatever content you want. This can be a good way to display your research work.
+- Create as many authors files ```<firstname>_<lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the author's full name at least. *Make sure the full name matches the author names in the posts exactly*. For members of the group, it can make more sense to put more info up there like links to your researchgate profile, a picture, biography and whatever content you want. This can be a good way to display your research work.
 
 Content is generated using markdown, a way to write rich documents using text only. You can learn how to write markdown in a few minutes. You can find [here](https://www.markdowntutorial.com/) a tutorial to start learning how to write markdown.
 
