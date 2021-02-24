@@ -11,8 +11,8 @@ TODO: ADD LINK TO THE PUBLISHED SITE
 - Prepare a teaser for your paper
    - Prepare your teaser video and upload it on the Youtube channel from MSRL (credentials available [here](https://wiki.msrl.ethz.ch/index.php/MSRL_Members:Youtube)) <br>
    **OR**
-   - Prepare an image ```<name>.png```  (MIN/MAX RESOLUTION ?) 
-- Prepare a 150 x 150 icon image ```<name_small>.png``` (displayed next to the publication entry on the website main page)
+   - Prepare an image ```<name>.png``` of size 400 x 400. ```<name>``` must match the filename of your post exactly without the date.
+- Prepare a 100 x 100 icon image ```<name_small>.png``` (displayed next to the publication entry on the website main page)
 
 Additionnaly, you are strongly encouraged to prepare richer content for the webpage (e.g. links to other website where the work has been advertised, link to open source code or dataset, extra videos uploaded on Youtube...)
 
@@ -20,8 +20,10 @@ Additionnaly, you are strongly encouraged to prepare richer content for the webp
 
 - Download the publication template file ```_posts/template.markdown```
 - Download the author template file ```_authors/template.markdown```
-- Create a file ```<publication_date-name>.markdown``` based on the publication template and fill it in with the required information
-- Create as many authors files ```<firstname_lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the required information
+- Create a file ```<publication_date-name>.markdown``` based on the publication template and fill it in with the required information. Publication date must be in yyyy-mm-dd format. Make sure to put a dash between the date and the filename.
+- Create as many authors files ```<firstname_lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the author's full name at least. *Make sure the full name matches the author names in the posts exactly*. For members of the group, it can make more sense to put more info up there like links to your researchgate profile, a picture, biography and whatever content you want. This can be a good way to display your research work.
+
+Content is generated using markdown, a way to write rich documents using text only. You can learn how to write markdown in a few minutes. You can find [here](https://www.markdowntutorial.com/) a tutorial to start learning how to write markdown.
 
 ## Submit and preview
 
@@ -29,7 +31,7 @@ First, you are going to add your files on a site that is only for preview, and i
 
 ### Upload files
 
-- Create a new branch (upper-left corner)
+- Create a new branch (upper-left corner). If this is a new publication, call the branch ```post/<publication_name>```, where ```<publication_name>``` matches the filename of your post.
 
 ![New branch](documentation/new_branch.png)
 
@@ -83,8 +85,4 @@ Once you are satisfied with the preview, request the administrators to publish y
 
 ![Submit for review](documentation/review_pr.png)
 
-You are done! Your commits are going to be reviewed by the moderators and pulished on the public website.
-
-## How to use markdown and html in your files
-
-TO DO
+You are done! Your commits are going to be reviewed by the moderators and published on the public website.
