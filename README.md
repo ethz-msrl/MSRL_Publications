@@ -8,9 +8,9 @@ TODO: ADD LINK TO THE PUBLISHED SITE
 
 ### Prepare the content and material
 
-- Prepare a the teaser for your paper
+- Prepare a teaser for your paper
    - Prepare your teaser video and upload it on the Youtube channel from MSRL (credentials available [here](https://wiki.msrl.ethz.ch/index.php/MSRL_Members:Youtube)) <br>
-   OR
+   **OR**
    - Prepare an image ```<name>.png```  (MIN/MAX RESOLUTION ?) 
 - Prepare a 150 x 150 icon image ```<name_small>.png``` (displayed next to the publication entry on the website main page)
 
