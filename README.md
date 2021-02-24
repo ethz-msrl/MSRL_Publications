@@ -2,11 +2,7 @@
 
 This repository contains the files to advertise your publications on the website as a member of MSRL.
 
-## Introduction
-
-TODO
-
-Link to main website
+TODO: LINK TO THE PUBLISHED SITE
 
 ## Prepare the entry
 
