@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Shared Control of a Magnetic Microcatheter for Vitreoretinal Targeted Drug Delivery
-year: yyyy 
+year: 2017
 authors: 
    - Samuel L. Charreyron
    - Burak Zeydan
