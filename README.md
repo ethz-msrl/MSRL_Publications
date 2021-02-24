@@ -1,8 +1,8 @@
 # Website pages for MSRL publications 
 
-This repository contains the files to advertise your publications on the website as a member of MSRL.
+This repository contains the files to advertise your publications on the MSRL publications website as a member of the lab.
 
-TODO: ADD LINK TO THE PUBLISHED SITE
+<!--- TODO: ADD LINK TO THE PUBLISHED SITE --->
 
 ## Prepare the entry
 
@@ -11,17 +11,17 @@ TODO: ADD LINK TO THE PUBLISHED SITE
 - Prepare a teaser for your paper
    - Prepare your teaser video and upload it on the Youtube channel from MSRL (credentials available [here](https://wiki.msrl.ethz.ch/index.php/MSRL_Members:Youtube)) <br>
    **OR**
-   - Prepare an image ```<name>.png``` of size 400 x 400. ```<name>``` must match the filename of your post exactly without the date.
-- Prepare a 100 x 100 icon image ```<name_small>.png``` (displayed next to the publication entry on the website main page)
+   - Prepare an image ```<publication_name>.png``` of size 400 x 400. ```<publication_name>``` must match the filename of your post exactly without the date.
+- Prepare an icon image ```<publication_name>_small.png``` of size 150 x 150 to be displayed next to the publication entry on the website main page.
 
-Additionnaly, you are strongly encouraged to prepare richer content for the webpage (e.g. links to other website where the work has been advertised, link to open source code or dataset, extra videos uploaded on Youtube...)
+Additionnaly, you are strongly encouraged to prepare richer content for the webpage (e.g. links to other websites where the work have been advertised, links to open-source code or datasets, videos uploaded on Youtube, additionnal comments and explanations on the work that are not in the abstract...).
 
 ### Prepare the files
 
 - Download the publication template file ```_posts/template.markdown```
 - Download the author template file ```_authors/template.markdown```
-- Create a file ```<publication_date-name>.markdown``` based on the publication template and fill it in with the required information. Publication date must be in yyyy-mm-dd format. Make sure to put a dash between the date and the filename.
-- Create as many authors files ```<firstname_lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the author's full name at least. *Make sure the full name matches the author names in the posts exactly*. For members of the group, it can make more sense to put more info up there like links to your researchgate profile, a picture, biography and whatever content you want. This can be a good way to display your research work.
+- Create a file ```<publication_date>-<publication_name>.markdown``` based on the publication template and fill it in with the required information. Publication date ```<publication_date>``` must be in yyyy-mm-dd format. Make sure to put a dash between the date and the filename.
+- Create as many authors files ```<firstname>_<lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the author's full name at least. *Make sure the full name matches the author names in the posts exactly*. For members of the group, it can make more sense to put more info up there like links to your researchgate profile, a picture, biography and whatever content you want. This can be a good way to display your research work.
 
 Content is generated using markdown, a way to write rich documents using text only. You can learn how to write markdown in a few minutes. You can find [here](https://www.markdowntutorial.com/) a tutorial to start learning how to write markdown.
 
@@ -81,8 +81,13 @@ The preview link is updated and the checks ran anew for each new commit, just fo
 
 ## Publish the entry
 
-Once you are satisfied with the preview, request the administrators to publish your contributon on the public website. In the pull request page, click 'Ready for review'. 
+Once you are satisfied with the preview, request the moderators to publish your contributon on the public website. In the pull request page, click 'Ready for review'. 
 
 ![Submit for review](documentation/review_pr.png)
 
 You are done! Your commits are going to be reviewed by the moderators and published on the public website.
+
+
+## Troubleshooting and FAQ
+
+If you encounter an issue using GitHub, or at any step of the submission procedure, please refer to the 'Issues' section and use the search feature to look your problem up. If you cannot find an answer to your problem, click on 'Create issue' and provide a clear and concise description of your problem. Note that you can refer to pull requests, other issues, or even files.
