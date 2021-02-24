@@ -1,6 +1,6 @@
 ---
 layout: publication
-title:  "Magnetic cilia carpets with programmable metachronal waves"
+title:  "Magnetic Cilia Carpets with Programmable Metachronal Waves"
 year: 2020
 authors: 
    - Hongri Gu
