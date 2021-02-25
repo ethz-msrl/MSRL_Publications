@@ -76,7 +76,7 @@ h3 {
     margin-bottom: 0.5rem;
 }
 
-.pubitem {
+.post-item {
   margin: 2em 0;
   line-height: 1em;
 }
@@ -93,16 +93,16 @@ h3 {
   margin-bottom: .75em;
 }
 
-.pubteaser {
+.post-teaser {
   clear: both;
 }
 
-.pubteaser a {
+.post-teaser a {
   float: left;
   margin-right: 2em;
 }
 
-.pubteaser img {
+.post-teaser img {
   width: 100px;
   border: 1px solid black;
 }
@@ -130,7 +130,7 @@ h3 {
    font-weight: bold;
 }
 
-.publication-teaser img {
+.post-img img {
     max-width: 400px;
     width: 1005;
 }
