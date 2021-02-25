@@ -21,6 +21,7 @@ jobs:
           isPrerelease: true
           tag_name: 1.0
           release_name: "Templates"
-          body_mrkdwn: "### It works!\n Wow, it worked like a charm 🎉"
+          body_mrkdwn: "Templates for posts and author pages"
           assets: ./templates.zip
+          replace_assets: true
           github_token: ${{ secrets.GITHUB_TOKEN }}
