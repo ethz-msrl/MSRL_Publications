@@ -1,0 +1,27 @@
+on:
+  push:
+    branches: main
+    
+name: Upload Templates
+
+jobs:
+  build:
+    name: Upload Release Asset
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Build project # This would actually build your project, using zip for an example artifact
+        run: |
+          zip --junk-paths templates `cat release-artifacts`
+      - name: It should create a release with assets templates.zip
+        uses: Xotl/cool-github-releases@v1
+        with:
+          mode: update
+          isPrerelease: true
+          tag_name: 1.0
+          release_name: "Templates"
+          body_mrkdwn: "Templates for posts and author pages"
+          assets: ./templates.zip
+          replace_assets: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
