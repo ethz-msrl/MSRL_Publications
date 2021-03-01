@@ -1,6 +1,6 @@
 ---
 layout: publication
-title:  "Magnetic quadrupole assemblies with arbitrary shapes and magnetizations"
+title:  "Magnetic Quadrupole Assemblies with Arbitrary Shapes and Magnetizations"
 year: 2019
 authors: 
    - Hongri Gu
