@@ -11,7 +11,7 @@ authors:
    - Bradley J. Nelson
 first_authors: 
     - Ayoung Hong
-link: link to the published version of your paper
+link: https://onlinelibrary.wiley.com/doi/full/10.1002/rcs.1998
 rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/408253/ijmrcas.pdf
 publication_date: 2019-04-19
 publication: The International Journal of Medical Robotics and Computer Assisted Surgery
