@@ -23,9 +23,12 @@ layout: default
 
 {{ content }}
 
+{% if page.email or page.github or page.google_scholar or page.researchgate or page.twitter %}
 <h2 id="links" class="mt-4">Contact</h2>
 <p>
+{% if page.email %}
 <a href="mailto:{{page.email}}"><i class="fas fa-inbox"></i> Email</a>&nbsp;&nbsp;
+{% endif %}
 {% if page.github %}
 <a href="{{ page.github }}"><i class="fab fa-github"></i> GitHub</a>&nbsp;&nbsp;
 {% endif %}
@@ -39,6 +42,7 @@ layout: default
 <a href="{{ page.twitter }}"><i class="fab fa-twitter"></i> Twitter</a>&nbsp;&nbsp;
 {% endif %}
 </p>
+{% endif %}
 
 
 <h2 class="mt-4">Publications</h2>
