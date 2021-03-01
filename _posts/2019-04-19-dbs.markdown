@@ -1,6 +1,6 @@
 ---
 layout: publication 
-title:  3D path planning for flexible needle steering in neurosurgery
+title:  3D Path Planning for Flexible Needle Steering in Neurosurgery
 year: 2019
 authors: 
    - Ayoung Hong
