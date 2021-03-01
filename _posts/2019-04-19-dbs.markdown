@@ -1,0 +1,47 @@
+---
+layout: publication 
+title:  3D Path Planning for Flexible Needle Steering in Neurosurgery
+year: 2019
+authors: 
+   - Ayoung Hong
+   - Quentin Boehler
+   - Roman Moser
+   - Ajmal Zemmar
+   - Lennart Stieglitz
+   - Bradley J. Nelson
+first_authors: 
+    - Ayoung Hong
+link: https://onlinelibrary.wiley.com/doi/full/10.1002/rcs.1998
+rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/408253/ijmrcas.pdf
+publication_date: 2019-04-19
+publication: The International Journal of Medical Robotics and Computer Assisted Surgery
+status: published
+doi: https://doi.org/10.1002/rcs.1998
+# pub a list of meaningful tags
+# use hyphens between words
+# use tags that are already listed on the site as much as possible
+tags: [ deep-brain-stimulation, magnetic-needle, path-planning, neurosurgery]
+categories: publication
+---
+
+## Abstract ##
+We propose a 3D path planning method to steer flexible needles along curved paths in the context of Deep Brain Stimulation (DBS) procedures. 
+
+Our approach is based on a rapidly-exploring random tree strategy and it takes into account constraints coming from anatomical obstacles and physical constraints dictated by flexible needle kinematics. The strategy is evaluated in simulation on a realistic 3D CAD model of the brain. 
+
+The subthalamic nucleus (STN) and the fornix can be reached along several curved paths from various entry points. As compared to the usual straight line path, these curved paths avoid tissue damage to important neural structures while allowing for a much greater selection of entry points. 
+
+This path planning method offers alternative curved paths to reach DBS targets with flexible needles. The method potentially leads to safer paths and additional entry points capable of reaching the desired stimulation targets.
+
+## Bibtex ##
+~~~
+@article{Hong2019,
+author = {Hong, Ayoung and Boehler, Quentin and Moser, Roman and Zemmar, Ajmal and Stieglitz, Lennart and Nelson, Bradley J.},
+title = {3D path planning for flexible needle steering in neurosurgery},
+journal = {The International Journal of Medical Robotics and Computer Assisted Surgery},
+volume = {15},
+number = {4},
+pages = {e1998},
+year = {2019}
+}
+~~~
