@@ -29,13 +29,13 @@ Tracheal intubation is considered the gold standard to secure the airway of pati
 ## The REALITI project ##
 The REALITI project was carried out at the MSRL between 2018 and 2020 as a collaboration between ETHZ and UZH (University Zurich Hospital). It focused on the design of a robotic endoscope to perform tracheal intubation automatically.
 
-### November 2019: our paper in journal Anaesthesia is accepted! ###
+#### November 2019: our paper in journal Anaesthesia is accepted! ####
 It covers the use of our prototype for a proof of concept study in an intubation manikin. The paper is available [here](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.14945).
 
-### June 2019: presentation at the 2019 Hamlyn Symposium on Medical Robotics ###
-We presented the project at the Hamlyn Symposium. The proceedings are available here: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/393102/2/hamlyn_realiti_final.pdf
+#### June 2019: presentation at the 2019 Hamlyn Symposium on Medical Robotics ####
+We presented the project at the Hamlyn Symposium. The proceedings are available [here](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/393102/2/hamlyn_realiti_final.pdf).
 
-### June 2018: EMedIC Global 2018 competition ###
+#### June 2018: EMedIC Global 2018 competition ####
 The project's team was awarded "The Gold Award for the Overall Achievement" and the "Clinical Readiness Award" at the EMedIC Global 2018 competition. 
 
 [See more...](https://msrl.ethz.ch/news-and-events/msrl-news/2018/08/gold-award-at-the-emedic-global-competition-for-msrl-team.html)
