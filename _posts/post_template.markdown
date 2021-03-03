@@ -17,7 +17,7 @@ link: link to the published version of your paper
 # open the pdf version of your paper on research collection and collect the link there
 rc_pdf_link: link to the preprint stored on ETH research collection.
 # if the paper is already published
-publication_date: yyy-mm-dd
+publication_date: yyyy-mm-dd
 publication: Journal or Conference Title
 # set to published if accepted for publication
 # set to in review if the paper has not been accepted but you still want a web presence for it
