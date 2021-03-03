@@ -30,7 +30,7 @@ First, you are going to add your files on a site that is only for preview, and i
 
 ### Upload files
 
-- Create a new branch (upper-left corner). If this is a new publication, call the branch ```post/<publication_name>```, where ```<publication_name>``` matches the filename of your post.
+- Create a new branch (upper-left corner). If this is a new publication, call the branch ```post/<publication_name>```, where ```<publication_name>``` matches the filename of your post, and in the right panel, click 'Labels' and add the label 'post'.
 
 ![New branch](documentation/new_branch.png)
 
