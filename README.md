@@ -90,3 +90,5 @@ You are done! Your commits are going to be reviewed by the moderators and publis
 ## Troubleshooting and FAQ
 
 If you encounter an issue using GitHub, or at any step of the submission procedure, please refer to the 'Issues' section and use the search feature to look your problem up. If you cannot find an answer to your problem, click on 'Create issue' and provide a clear and concise description of your problem. Note that you can refer to pull requests, other issues, or even files.
+
+More information on how to handle GitHub issues [here](https://guides.github.com/features/issues/).
