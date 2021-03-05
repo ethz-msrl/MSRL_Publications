@@ -12,7 +12,6 @@ authors:
 first_authors: Christophe Chautems
 link: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.201900086
 rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/393096/aisy.201900086.pdf
-youtube_link: "https://www.youtube.com/embed/YDUxdKEWE9s"
 publication_date: 2019-09-11
 publication: Advanced Intelligent System
 status: published
@@ -30,7 +29,7 @@ One of the challenges of minimally invasive surgery is the dexterous manipulatio
 
 This work has been covered by the ETH News for industry. More information available [here](https://ethz.ch/en/industry/industry/news/data/2018/10/the-worlds-smallest-robotic-catheter.html).
 
-<iframe src="https://www.youtube.com/embed/UanzdFhw5Zg&list=PL1xPwqbQ8DZhUnYJ_QJTW9BzqmsEbJvL6" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UanzdFhw5Zg" frameborder="0" allowfullscreen></iframe>
 
 ## Bibtex ##
 ~~~
