@@ -18,7 +18,7 @@ status: published
 doi: https://doi.org/10.1002/aisy.201900086
 
 
-tags: [ variable-stiffness, continuum-robot, magnetic-catheter, medical-robotics]
+tags: [ variable-stiffness, continuum-robots, magnetic-catheters, medical-robotics]
 categories: publication
 ---
 
