@@ -15,7 +15,7 @@ publication_date: 2018-02-27
 publication: IEEE Robotics and Automation Letters 3
 status: published
 doi: http://doi.org/10.1109/LRA.2018.2809546
-tags: [ continuum-robots, magnetic-catheters]
+tags: [ continuum-robots, magnetic-catheters, medical-robotics]
 categories: publication
 ---
 
