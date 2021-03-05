@@ -19,7 +19,7 @@ citation: "Charreyron, S. L., Boehler, Q., Danun, A., Mesot, A., Becker, M., & N
 Navigated Microcannula for Subretinal Injections. IEEE Transactions on Biomedical Engineering.
 doi: https://doi.org/10.1109/tbme.2020.2996013"
    
-tags: [ ophthalmology, magnetic-catheters, endolaser, diabetic-retinopathy]
+tags: [ ophthalmology, magnetic-catheters, endolaser, diabetic-retinopathy, medical-robotics]
 categories: publication
 ---
 

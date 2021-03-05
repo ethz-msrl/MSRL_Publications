@@ -21,7 +21,7 @@ Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ven
 doi: https://doi.org/10.1002/advs.202000726"
 
 
-tags: [ quadrupole, magnetic-assembly ]
+tags: [ magnetic-quadrupole, magnetic-assembly, medical-robotics ]
 categories: publication
 ---
 

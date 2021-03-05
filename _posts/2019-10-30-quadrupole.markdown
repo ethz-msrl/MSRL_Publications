@@ -19,7 +19,7 @@ Magnetic quadrupole assemblies with arbitrary shapes and magnetizations. Science
 doi: https://doi.org/10.1126/scirobotics.aax8977"
 
 
-tags: [ quadrupole, magnetic-assembly ]
+tags: [ magnetic-quadrupole, magnetic-assembly ]
 categories: publication
 ---
 

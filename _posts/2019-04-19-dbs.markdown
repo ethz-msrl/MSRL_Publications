@@ -20,7 +20,7 @@ doi: https://doi.org/10.1002/rcs.1998
 # pub a list of meaningful tags
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
-tags: [ deep-brain-stimulation, magnetic-needle, path-planning, neurosurgery]
+tags: [ deep-brain-stimulation, magnetic-needle, path-planning, neurosurgery, medical-robotics]
 categories: publication
 ---
 
