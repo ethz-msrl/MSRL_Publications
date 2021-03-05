@@ -71,7 +71,7 @@ doi = {10.1109/TRO.2020.3047053},
 issn = {19410468},
 journal = {IEEE Transactions on Robotics},
 publisher = {Institute of Electrical and Electronics Engineers Inc.},
-title = {{Modeling Electromagnetic Navigation Systems}},
+title = {Modeling Electromagnetic Navigation Systems},
 year = {2021}
 }
 ~~~
