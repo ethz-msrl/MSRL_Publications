@@ -13,7 +13,7 @@ publication_date: 2017-07-24
 publication: IEEE International Conference on Robotics and Automation (ICRA)
 status: published
 doi: https://doi.org/10.1109/ICRA.2017.7989563
-tags: [ opthalmology, magnetic-catheter, medical-robotics]
+tags: [ ophthalmology, magnetic-catheters, medical-robotics]
 categories: publication
 ---
 
