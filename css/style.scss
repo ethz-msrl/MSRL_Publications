@@ -1,6 +1,8 @@
 ---
 ---
 /* modify Bootstrap variables here */
+$enable-responsive-font-sizes: true;
+
 $msrl_blue: #007BB5;
 $msrl_dark: #005882;
 $msrl_darkest: #002435;
@@ -81,13 +83,6 @@ h3 {
   line-height: 1em;
 }
 
-.pubtitle a {
-  //color: #014B68;
-  margin-bottom: 1.2rem;
-  line-height: 1.8rem;
-  font-weight: bold;
-}
-
 .pubauthors, .pubinfo {
   font-size: 75%;
   margin-bottom: .75em;
@@ -99,7 +94,6 @@ h3 {
 
 .post-teaser a {
   float: left;
-  margin-right: 2em;
 }
 
 .post-teaser img {
@@ -132,5 +126,5 @@ h3 {
 
 .post-img img {
     max-width: 400px;
-    width: 1005;
+    width: 100%;
 }
