@@ -29,7 +29,7 @@ Robotic endoscope‐automated via laryngeal imaging for tracheal intubation (REA
 The REALITI project was carried out at the MSRL between 2018 and 2020 as a collaboration between ETHZ and UZH (University Zurich Hospital). It focused on the design of a robotic endoscope to perform tracheal intubations automatically.
 
 #### January 2020: our paper in IEEE Transactions on Medical Robotics and Bionics is published! ####
-It covers the design and control of our pre-clinical prototype. The paper is available [here](https://ieeexplore.ieee.org/document/8968417).
+It covers the design and control of our pre-clinical prototype. The paper is available [here](https://ieeexplore.ieee.org/document/8968417) and [on this post of our publications website](../../../2020/01/24/realiti_tmrb.html).
 
 #### June 2019: presentation at the 2019 Hamlyn Symposium on Medical Robotics ####
 We presented the project at the Hamlyn Symposium. The proceedings are available [here](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/393102/2/hamlyn_realiti_final.pdf).
