@@ -66,23 +66,31 @@ Video available [here](https://www.reuters.com/video/watch/would-you-let-a-robot
 
 A team in Switzerland has developed a robot that moves just like a millipede. The Swiss Federal Institute of Technology recently unveiled its so-called ‘soft robot,’ which was inspired by millipedes. PhD student Richard Gu said, “This soft robot can actually generate a wave between the legs and actually propel to move forward using the same mechanism as a millipede walking.” He added that the technology may one day be used to deliver medical treatment from within people’s bodies.
 
-<iframe src="https://www.youtube.com/embed/qDyLXG9BlZQ" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qDyLXG9BlZQ" allowfullscreen></iframe>
+</div>
 
 ####  South China Morning Post #### 
 
 Would you let this 'millipede' in your body?
 
-<iframe src="https://www.youtube.com/embed/TgiZsngohqo" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TgiZsngohqo" allowfullscreen></iframe>
+</div>
 
 ####  ETH News #### 
 
 ETH Zurich engineers have created a magnetically controllable cilia carpet that can move like a millipede. Watch the following video.
 
-<iframe src="https://www.youtube.com/embed/FLfrd2Wr5p0" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FLfrd2Wr5p0" allowfullscreen></iframe>
+</div>
 
 ####  ETH 2020 Highlight #### 
 
 An extraordinary year is drawing to a close. ETH News takes a look back at the highlights that emerged amidst difficult and unsettling times, at ingenious ideas, fascinating science and solidarity in action during – and despite – the coronavirus pandemic.
 
-<iframe src="https://www.youtube.com/embed/Zl0psH_CdlY" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Zl0psH_CdlY" allowfullscreen></iframe>
+</div>
 

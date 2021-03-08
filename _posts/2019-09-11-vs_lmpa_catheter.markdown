@@ -29,8 +29,9 @@ One of the challenges of minimally invasive surgery is the dexterous manipulatio
 
 This work has been covered by the ETH News for industry. More information available [here](https://ethz.ch/en/industry/industry/news/data/2018/10/the-worlds-smallest-robotic-catheter.html).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UanzdFhw5Zg" frameborder="0" allow="accelerometer;
-autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UanzdFhw5Zg" allowfullscreen></iframe>
+</div>
 
 ## Bibtex ##
 ~~~
