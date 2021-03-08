@@ -12,7 +12,7 @@ title: Publications
 
     {% if forloop.first %}
     <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-    <ul>
+    <ul class="list-unstyled">
     {% endif %}
 
     {% include pubitem.html %}
@@ -23,7 +23,7 @@ title: Publications
         {% if this_year != next_year %}
         </ul>
         <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-        <ul>
+        <ul class="list-unstyled">
         {% endif %}
     {% endif %}
 {% endfor %}

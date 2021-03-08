@@ -65,8 +65,9 @@ ac, pharetra ullamcorper justo. Maecenas vulputate lacus risus, vitae ornare ris
 quis metus ullamcorper viverra.
 
 ## Some Videos ##
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XqZsoesa55w" frameborder="0" allow="accelerometer;
-autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XqZsoesa55w" allowfullscreen></iframe>
+</div>
 
 ## Links to Resources ##
 * [A link to a research collection item](https://www.research-collection.ethz.ch/handle/20.500.11850/471234)
