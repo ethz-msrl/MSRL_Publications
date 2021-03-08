@@ -72,6 +72,16 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 * [A link to a research collection item](https://www.research-collection.ethz.ch/handle/20.500.11850/471234)
 * [A link to GitHub](https://www.github.com/ethz-msrl/Tesla)
 
+## Link to other papers from the website ##
+<!--
+# If you want to link to another paper on this website (e.g. paper from the same project), you must use a relative path from the current page:
+# "../../../yyyy/mm/dd/<publication_name>.html"
+# where yyyy-mm-dd is the <publication_date> and the filename of the paper is <publication_date>-<publication_name>.markdown
+# See the example below.
+# (also try as much as possible to link the papers by common tags)
+-->
+* [A link to a related paper on this website](../../../2021/01/20/modeling_emns.html).
+
 ## Bibtex ##
 ~~~
 @article{tag,
