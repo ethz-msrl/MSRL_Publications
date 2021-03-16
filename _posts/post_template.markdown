@@ -80,7 +80,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 # See the example below.
 # (also try as much as possible to link the papers by common tags)
 -->
-* [A link to a related paper on this website](../../../2021/01/20/modeling_emns.html).
+* [A link to a related paper on this website]({% link _posts/2021-01-20-modeling_emns.markdown %}).
 
 ## Bibtex ##
 ~~~
