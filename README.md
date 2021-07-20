@@ -1,8 +1,6 @@
 # Website pages for MSRL publications 
 
-This repository contains the files to advertise your publications on the MSRL publications website as a member of the lab.
-
-<!--- TODO: ADD LINK TO THE PUBLISHED SITE --->
+This repository contains the files to advertise your publications on the MSRL [publications website](https://publications.msrl.ethz.ch/) as a member of the lab.
 
 ## Prepare the entry
 
@@ -11,7 +9,7 @@ This repository contains the files to advertise your publications on the MSRL pu
 - Prepare a teaser for your paper
    - Prepare your teaser video and upload it on the Youtube channel from MSRL (credentials available [here](https://wiki.msrl.ethz.ch/index.php/MSRL_Members:Youtube)) <br>
    **OR**
-   - Prepare an image ```<publication_name>.png``` of size 400 x 400. ```<publication_name>``` must match the filename of your post exactly without the date.
+   - Prepare an image ```<publication_name>.png``` of size 400 x 400.
 - Prepare an icon image ```<publication_name>_small.png``` of size 150 x 150 to be displayed next to the publication entry on the website main page.
 
 Additionnaly, you are strongly encouraged to prepare richer content for the webpage (e.g. links to other websites where the work have been advertised, links to open-source code or datasets, videos uploaded on Youtube, additionnal comments and explanations on the work that are not in the abstract...).
@@ -19,7 +17,7 @@ Additionnaly, you are strongly encouraged to prepare richer content for the webp
 ### Prepare the files
 - Download the post and author [templates](https://github.com/ethz-msrl/MSRL_Publications/releases/download/1/templates.zip). They are also found in 
 ```_posts/template.markdown``` and  ```_authors/template.markdown```.
-- Create a file ```<publication_date>-<publication_name>.markdown``` based on the publication template and fill it in with the required information. Publication date ```<publication_date>``` must be in yyyy-mm-dd format. Make sure to put a dash between the date and the filename.
+- Create a file ```<publication_date>-<publication_name>.markdown``` based on the publication template and fill it in with the required information. Publication date ```<publication_date>``` must be in yyyy-mm-dd format. Make sure to put a dash between the date and the publication name, and that ```<publication_name>``` matches the filename of your teaser picture.
 - Create as many authors files ```<firstname>_<lastname>.markdown``` as required (only for authors that are not already in the folder ```_authors```) and fill it in with the author's full name at least. *Make sure the full name matches the author names in the posts exactly*. For members of the group, it can make more sense to put more info up there like links to your researchgate profile, a picture, biography and whatever content you want. This can be a good way to display your research work.
 
 Content is generated using markdown, a way to write rich documents using text only. You can learn how to write markdown in a few minutes. You can find [here](https://www.markdowntutorial.com/) a tutorial to start learning how to write markdown.
@@ -28,15 +26,16 @@ Content is generated using markdown, a way to write rich documents using text on
 
 First, you are going to add your files on a site that is only for preview, and is therefore not public.
 
-### Upload files
+### Upload files on GitHub
 
-- Create a new branch (upper-left corner). If this is a new publication, call the branch ```post/<publication_name>```, where ```<publication_name>``` matches the filename of your post, and in the right panel, click 'Labels' and add the label 'post'.
+- Go to the [main GitHub page of the repository](https://github.com/ethz-msrl/MSRL_Publications)
+- Create a new branch (upper-left corner). If this is a new publication, call the branch ```post/<publication_name>```, where ```<publication_name>``` matches the name of your post, and in the right panel, click 'Labels' and add the label 'post'.
 
 ![New branch](documentation/new_branch.png)
 
-- Upload the paper file in the folder ```_posts``` 
-- Upload the author files in the folder ```_authors```
-- Upload the images files in the folder ```images```
+- Upload the paper file (*.markdown) in the folder ```_posts``` 
+- Upload the author files (*.markdown) in the folder ```_authors```
+- Upload the images files (*.png) in the folder ```images```
 
 To upload a file:
 - Go to the desired folder
