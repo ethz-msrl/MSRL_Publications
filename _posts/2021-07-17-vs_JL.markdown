@@ -5,7 +5,14 @@ year: 2021
 authors: 
    - Jonas Lussi
    - Michael Mattmann
-   - Bradley Nelson
+   - Semih Sevim
+   - Fabian Grigis
+   - Carmela De Marco
+   - Christophe Chautems
+   - Salvador Pané
+   - Josep Puigmartí-Luis
+   - Quentin Boehler
+   - Bradley J. Nelson
    
 # at least one first author needs to match a name in authors
 # if authors are sharing first author credits, you can list them here
