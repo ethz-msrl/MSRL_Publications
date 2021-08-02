@@ -30,7 +30,7 @@ publication: Journal
 status: published
 # if there is a youtube video, put it here
 # if not, delete this line
-youtube_link: https://www.youtube.com/watch?v=u_UYrly6I24
+youtube_link: "https://youtu.be/u_UYrly6I24"
 # if there is a github project associated with this paper, put the link here
 # if not, delete this line
 
