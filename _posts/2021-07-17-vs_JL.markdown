@@ -1,6 +1,5 @@
 ---
 layout: publication
-published: false # remove this line on your post 
 title:  A Submillimeter Continuous Variable Stiffness Catheter for Compliance Control
 year: 2021 
 authors: 
