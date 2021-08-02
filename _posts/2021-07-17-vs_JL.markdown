@@ -23,7 +23,7 @@ link: https://doi.org/10.1002/advs.202101290
 rc_pdf_link: https://www.research-collection.ethz.ch/handle/20.500.11850/489702
 # if the paper is already published
 publication_date: 2021-07-17
-publication: Journal
+publication: Advanced Science
 # set to published if accepted for publication
 # set to in review if the paper has not been accepted but you still want a web presence for it
 # set to preprint if the paper is only published on a preprint server like arxiv
