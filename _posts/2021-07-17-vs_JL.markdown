@@ -39,7 +39,7 @@ doi:  https://doi.org/10.1002/advs.202101290
 # pub a list of meaningful tags
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
-tags: [ variable-stiffness, soft-robotics, magnetic-actuation, medical-robotics]
+tags: [ variable-stiffness, soft-robotics, remote-magnetic-actuation, medical-robotics,magnetic-catheters, continuum-robots, ophthalmology]
 categories: publication
 ---
 ## Abstract ##
