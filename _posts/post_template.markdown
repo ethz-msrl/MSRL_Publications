@@ -24,6 +24,7 @@ publication: Journal or Conference Title
 # set to preprint if the paper is only published on a preprint server like arxiv
 status: published
 # if there is a youtube video, put it here
+# Make sure to use the embed link and not the youtube link
 # if not, delete this line
 youtube_link: https:/youtube.com/video
 # if there is a github project associated with this paper, put the link here
@@ -34,6 +35,7 @@ doi: https://doi.org/10.1109/TRO.2020.3047053
 # pub a list of meaningful tags
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
+# Use hyphens and not spaces
 tags: [ first-tag, second-tag]
 categories: publication
 ---
