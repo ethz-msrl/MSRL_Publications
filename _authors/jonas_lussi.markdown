@@ -1,5 +1,4 @@
 ---
-published: false # remove this line
 layout: author
 name: Jonas Lussi # make sure this matches the author in the posts exactly
 email: jlussi@ethz.ch
