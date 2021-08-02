@@ -9,7 +9,7 @@ authors:
    - Fabian Grigis
    - Carmela De Marco
    - Christophe Chautems
-   - Salvador Pané
+   - Salvador Pane
    - Josep Puigmartí-Luis
    - Quentin Boehler
    - Bradley J. Nelson
