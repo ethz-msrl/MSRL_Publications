@@ -67,9 +67,18 @@ ac, pharetra ullamcorper justo. Maecenas vulputate lacus risus, vitae ornare ris
 quis metus ullamcorper viverra.
 
 ## Some Videos ##
+<!--
+# Adapt to the path address of your Youtube video (use the embed link and not the Youtube link)
+-->
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XqZsoesa55w" allowfullscreen></iframe>
 </div>
+
+## Some Figure ##
+<!--
+# Adapt to the path of your image (example below when the file is in the folder "images" of the repo
+-->
+![alt text for screen readers](/images/subretinal.png "Text to show on mouseover")
 
 ## Links to Resources ##
 * [A link to a research collection item](https://www.research-collection.ethz.ch/handle/20.500.11850/471234)
