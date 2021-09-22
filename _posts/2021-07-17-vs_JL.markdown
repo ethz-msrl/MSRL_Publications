@@ -44,9 +44,14 @@ categories: publication
 ---
 
 ## News ##
+
+* **2021-09-22**: Our paper makes it to a [frontispiece](https://onlinelibrary.wiley.com/doi/10.1002/advs.202170118) in the issue 18, vol. 8 of _Advanced Science_. Thanks to Adrián Bago González for his illustration!
+
+<img src="/images/advs202170118_frontispiece.jpg" width="300" />
+
 * **2021-08-12**: Our paper is advertised in _Physics World_! Check out the full article [here](https://physicsworld.com/a/variable-stiffness-catheter-could-increase-the-safety-of-robotic-eye-surgery/).
 
-![Physics World article - August 2021](/images/august_2021_physics_world_vs_stiffness.png "Physics World article")
+<img src="/images/august_2021_physics_world_vs_stiffness.png" width="300" />
 
 ## Abstract ##
 Minimally invasive robotic surgery often requires functional tools that can change their compliance to adapt to the environment and surgical needs. This paper proposes a submillimeter continuous variable stiffness catheter equipped with a phase-change alloy that has a high stiffness variation in its different states, allowing for rapid compliance control. Variable stiffness is achieved through a variable phase boundary in the alloy due to a controlled radial temperature gradient. This catheter can be safely navigated in its soft state and rigidiﬁed to the required stiffness during operation to apply a desired force at the tip. The maximal contact force that the catheter applies to tissue can be continuously modiﬁed by a factor of 400 (~20 mN–8 N). The catheter is equipped with a magnet and a micro-gripper to perform a fully robotic ophthalmic minimally invasive surgery on an eye phantom by means of an electromagnetic navigation system.
