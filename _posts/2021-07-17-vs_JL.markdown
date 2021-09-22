@@ -45,7 +45,7 @@ categories: publication
 
 ## News ##
 
-* **2021-09-22**: Our paper makes it to a [frontispiece](https://onlinelibrary.wiley.com/doi/10.1002/advs.202170118) in the issue 18, vol. 8 of Advanced Science. Thanks to Adrián Bago González for his illustration!
+* **2021-09-22**: Our paper makes it to a [frontispiece](https://onlinelibrary.wiley.com/doi/10.1002/advs.202170118) in the issue 18, vol. 8 of _Advanced Science_. Thanks to Adrián Bago González for his illustration!
 
 <img src="/images/advs202170118_frontispiece.jpg" width="300" />
 
