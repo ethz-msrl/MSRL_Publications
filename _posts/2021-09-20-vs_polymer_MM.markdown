@@ -39,7 +39,7 @@ doi: http://doi.org/10.1002/advs.202103277
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ variable-stiffness, soft-robotics, remote-magnetic-navigation, medical-robotics,magnetic-catheters, ccomposite materials, thermoset polymers]
+tags: [ variable-stiffness, soft-robotics, remote-magnetic-navigation, medical-robotics,magnetic-catheters]
 categories: publication
 ---
 
