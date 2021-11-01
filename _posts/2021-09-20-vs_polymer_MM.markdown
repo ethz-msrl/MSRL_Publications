@@ -34,7 +34,7 @@ status: published
 youtube_link: https://www.youtube.com/embed/i4rsMADCBLA
 
 # if the paper is published, put the DOI link to the published version
-doi: https://doi.org/10.1109/TRO.2020.3047053 
+doi: http://doi.org/10.1002/advs.202103277 
 # pub a list of meaningful tags
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
