@@ -18,11 +18,11 @@ authors:
 # if authors are sharing first author credits, you can list them here
 first_authors: 
     - Michael Mattmann
-link: link to the published version of your paper
+link: http://doi.org/10.1002/advs.202103277
 # open the pdf version of your paper on research collection and collect the link there
 rc_pdf_link: link to the preprint stored on ETH research collection.
 # if the paper is already published
-publication_date: yyyy-mm-dd
+publication_date: 2021-10-31
 publication: Advanced Science
 # set to published if accepted for publication
 # set to in review if the paper has not been accepted but you still want a web presence for it
@@ -31,7 +31,7 @@ status: published
 # if there is a youtube video, put it here
 # Make sure to use the embed link and not the youtube link
 # if not, delete this line
-youtube_link: https:/youtube.com/video
+youtube_link: https://www.youtube.com/embed/i4rsMADCBLA
 
 # if the paper is published, put the DOI link to the published version
 doi: https://doi.org/10.1109/TRO.2020.3047053 
