@@ -20,7 +20,7 @@ first_authors:
     - Michael Mattmann
 link: http://doi.org/10.1002/advs.202103277
 # open the pdf version of your paper on research collection and collect the link there
-rc_pdf_link: link to the preprint stored on ETH research collection.
+rc_pdf_link: https://www.research-collection.ethz.ch/handle/20.500.11850/513044
 # if the paper is already published
 publication_date: 2021-10-31
 publication: Advanced Science
