@@ -1,0 +1,100 @@
+---
+layout: publication
+
+title:  Surface Nanopatterned Shape Memory Alloy (SMA)-Based Photosensitive Artificial Muscle
+year: 2021 
+authors: 
+   - Minsoo Kim
+   - Hye-Sung Lee
+   - Younggyun Cho
+   - Jae Kyung Heo
+   - Ying-Jun Quan
+   - Seung Woo Lee
+   - Heui Jae Pahk
+   - Sung-Hoon Ahn
+# at least one first author needs to match a name in authors
+# if authors are sharing first author credits, you can list them here
+first_authors: 
+    - Minsoo Kim
+link: https://doi.org/10.1002/adom.202102024
+# open the pdf version of your paper on research collection and collect the link there
+rc_pdf_link: link to the preprint stored on ETH research collection.
+# if the paper is already published
+publication_date: 2021-12-23
+publication: Advanced Optical Materials
+# set to published if accepted for publication
+# set to in review if the paper has not been accepted but you still want a web presence for it
+# set to preprint if the paper is only published on a preprint server like arxiv
+status: published
+# if there is a youtube video, put it here
+# Make sure to use the embed link and not the youtube link
+# if not, delete this line
+
+# if there is a github project associated with this paper, put the link here
+# if not, delete this line
+
+# if the paper is published, put the DOI link to the published version
+doi: https://doi.org/10.1002/adom.202102024
+# pub a list of meaningful tags
+# use hyphens between words
+# use tags that are already listed on the site as much as possible
+# Use hyphens and not spaces
+tags: [ artificial-muscles, metasurfaces, plasmonic-effects, actuators, shape-memory-alloy, biomimetic ]
+categories: publication
+---
+
+<!--
+# The following are only suggestions of content that you can include on your publication.  
+# Feel free to format this part as you prefer.)
+-->
+
+## News ##
+#* **Date**: Some good news about your paper!
+#* **Date**: Some older news.
+
+## Abstract ##
+Light-driven shape memory alloy (SMA)-based microscale actuators show great promise for artificial muscle and biomedical applications, as they are actuated remotely and have a fast response speed. However, ultraviolet (UV) light is required for device actuation; thus, the operating environment has been limited. Here, an infrared (IR) light-driven SMA actuator is proposed, in which the plasmonic effect is used to enhance IR light absorptance. A sub-micrometer pattern is used to create an optical meta-surface capable of tuning the light absorptance. Conical nanohole arrays are fabricated with a focused ion beam. The absorptance tuning effect is evaluated in terms of the optical characteristics and performance of the actuator. The nanopatterned surface increases the narrow-band IR light absorption by up to 55%. Optics simulations are conducted to verify the experimental results. A pattern design method is proposed, based on the light wavelength of the stimulating source. Combining heterogeneous surfaces, both UV and IR light achieve decoupled microscale actuation. These actuators show a response similar to that of the iris muscle, which is responsible for the eye's pupillary reflex. It is expected that these actuators will broaden SMA applications in clinical devices and soft robotics.
+
+
+## Some Videos ##
+<!--
+# Adapt to the path address of your Youtube video (use the embed link and not the Youtube link)
+-->
+<!-- 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XqZsoesa55w" allowfullscreen></iframe>
+</div>
+-->
+
+## Some Figure ##
+<!--
+# Adapt to the path of your image (example below when the file is in the folder "images" of the repo
+-->
+#![alt text for screen readers](/images/subretinal.png "Text to show on mouseover")
+
+## Links to Resources ##
+#* [A link to a research collection item](https://www.research-collection.ethz.ch/handle/20.500.11850/471234)
+#* [A link to GitHub](https://www.github.com/ethz-msrl/Tesla)
+
+## Link to other papers from the website ##
+<!--
+# If you want to link to another paper on this website (e.g. paper from the same project), you must use a relative path from the current page:
+# "../../../yyyy/mm/dd/<publication_name>.html"
+# where yyyy-mm-dd is the <publication_date> and the filename of the paper is <publication_date>-<publication_name>.markdown
+# See the example below.
+# (also try as much as possible to link the papers by common tags)
+-->
+#* [A link to a related paper on this website]({% link _posts/2021-01-20-modeling_emns.markdown %}).
+
+## Bibtex ##
+~~~
+@article{tag,
+author = {Kim, Minsoo, Lee, Hye-Sung, Cho, Younggyun, Heo, Jae Kyung, Quan, Ying-Jun, Lee, Seung Woo, Pahk, Heui Jae   - 
+   - Sung-Hoon Ahn},
+doi = {https://doi.org/10.1002/adom.202102024},
+journal = {Advanced Optical Materials},
+publisher = {Wiley-VCH},
+title = {Surface Nanopatterned Shape Memory Alloy (SMA)-Based Photosensitive Artificial Muscle},
+year = {2021}
+}
+~~~
