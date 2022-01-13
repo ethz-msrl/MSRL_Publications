@@ -47,16 +47,17 @@ categories: publication
 # The following are only suggestions of content that you can include on your publication.  
 # Feel free to format this part as you prefer.)
 -->
-
+<!--
 ## News ##
 #* **Date**: Some good news about your paper!
 #* **Date**: Some older news.
-
+-->
 ## Abstract ##
 Light-driven shape memory alloy (SMA)-based microscale actuators show great promise for artificial muscle and biomedical applications, as they are actuated remotely and have a fast response speed. However, ultraviolet (UV) light is required for device actuation; thus, the operating environment has been limited. Here, an infrared (IR) light-driven SMA actuator is proposed, in which the plasmonic effect is used to enhance IR light absorptance. A sub-micrometer pattern is used to create an optical meta-surface capable of tuning the light absorptance. Conical nanohole arrays are fabricated with a focused ion beam. The absorptance tuning effect is evaluated in terms of the optical characteristics and performance of the actuator. The nanopatterned surface increases the narrow-band IR light absorption by up to 55%. Optics simulations are conducted to verify the experimental results. A pattern design method is proposed, based on the light wavelength of the stimulating source. Combining heterogeneous surfaces, both UV and IR light achieve decoupled microscale actuation. These actuators show a response similar to that of the iris muscle, which is responsible for the eye's pupillary reflex. It is expected that these actuators will broaden SMA applications in clinical devices and soft robotics.
 
-
+<!--
 ## Some Videos ##
+-->
 <!--
 # Adapt to the path address of your Youtube video (use the embed link and not the Youtube link)
 -->
@@ -65,18 +66,25 @@ Light-driven shape memory alloy (SMA)-based microscale actuators show great prom
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XqZsoesa55w" allowfullscreen></iframe>
 </div>
 -->
-
+<!--
 ## Some Figure ##
+-->
 <!--
 # Adapt to the path of your image (example below when the file is in the folder "images" of the repo
 -->
+<!--
 #![alt text for screen readers](/images/subretinal.png "Text to show on mouseover")
-
+-->
+<!--
 ## Links to Resources ##
+-->
+<!--
 #* [A link to a research collection item](https://www.research-collection.ethz.ch/handle/20.500.11850/471234)
 #* [A link to GitHub](https://www.github.com/ethz-msrl/Tesla)
-
+-->
+<!--
 ## Link to other papers from the website ##
+-->
 <!--
 # If you want to link to another paper on this website (e.g. paper from the same project), you must use a relative path from the current page:
 # "../../../yyyy/mm/dd/<publication_name>.html"
@@ -84,7 +92,9 @@ Light-driven shape memory alloy (SMA)-based microscale actuators show great prom
 # See the example below.
 # (also try as much as possible to link the papers by common tags)
 -->
+<!--
 #* [A link to a related paper on this website]({% link _posts/2021-01-20-modeling_emns.markdown %}).
+-->
 
 ## Bibtex ##
 ~~~
