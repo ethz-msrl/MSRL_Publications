@@ -18,7 +18,7 @@ first_authors:
     - Jonas Lussi
 link: https://doi.org/10.1109/TMRB.2022.3146351
 # open the pdf version of your paper on research collection and collect the link there
-rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/531109
+rc_pdf_link: https://www.research-collection.ethz.ch/handle/20.500.11850/531109
 # if the paper is already published
 publication_date: 2022-02-07
 publication: IEEE Transactions on Medical Robotics and Bionics
