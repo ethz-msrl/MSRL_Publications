@@ -29,7 +29,7 @@ status: published
 # if there is a youtube video, put it here
 # Make sure to use the embed link and not the youtube link
 # if not, delete this line
-youtube_link: https://youtu.com/embed/7U-hCpZHJM0
+youtube_link: https://youtube.com/embed/7U-hCpZHJM0
 # if the paper is published, put the DOI link to the published version
 doi: https://doi.org/10.1177/02783649211071113
 # pub a list of meaningful tags
