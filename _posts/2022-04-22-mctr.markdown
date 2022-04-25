@@ -1,0 +1,73 @@
+---
+layout: publication
+title:  Magnetic Concentric Tube Robots - Introduction and Analysis
+year: 2022 
+authors: 
+   - Quentin Peyron
+   - Quentin Boehler
+   - Patrick Rougeot
+   - Pierre Roux
+   - Bradley J. Nelson
+   - Nicolas Andreff
+   - Kanty Rabenorosoa
+   - Pierre Renaud
+   
+# at least one first author needs to match a name in authors
+# if authors are sharing first author credits, you can list them here
+first_authors: 
+    - Quentin Peyron
+link: https://doi.org/10.1177/02783649211071113
+# open the pdf version of your paper on research collection and collect the link there
+rc_pdf_link: https://www.research-collection.ethz.ch/handle/20.500.11850/543633
+# if the paper is already published
+publication_date: 2022-04-22
+publication: The International Journal of Robotics Research
+# set to published if accepted for publication
+# set to in review if the paper has not been accepted but you still want a web presence for it
+# set to preprint if the paper is only published on a preprint server like arxiv
+status: published
+# if there is a youtube video, put it here
+# Make sure to use the embed link and not the youtube link
+# if not, delete this line
+youtube_link: https://youtube.com/embed/7U-hCpZHJM0
+# if the paper is published, put the DOI link to the published version
+doi: https://doi.org/10.1177/02783649211071113
+# pub a list of meaningful tags
+# use hyphens between words
+# use tags that are already listed on the site as much as possible
+# Use hyphens and not spaces
+tags: [ continuum-robots, remote-magnetic-navigation, soft-robotics, concentric-tubes, kinematics]
+categories: publication
+---
+
+## Abstract ##
+In this paper, we propose a new type of continuum robot, referred to as a magnetic concentric tube robot (M-CTR), for performing minimally invasive surgery in narrow and difficult-to-access areas. The robot combines concentric tubes and magnetic actuation to benefit from the ‘follow the leader’ behaviour, the dexterity and stability of existing robots, while targeting millimetre-sized external diameters. These three kinematic properties are assessed through numerical and experimental studies performed on a prototype of a M-CTR. They are performed with general forward and inverse kineto-static models of the robot, continuation and bifurcation analysis, and a specific experimental setup. The prototype presents unique capabilities in terms of deployment and active stability management, while its dexterity in terms of tip orientability is also among the best reported for other robots at its scale.
+
+## Learn more ##
+
+### Follow-the-leader behavior ###
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/j8jkCFJ8Tig" allowfullscreen></iframe>
+</div>
+
+### Active stability management ###
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_jOkMESD0ZA" allowfullscreen></iframe>
+</div>
+
+
+## Bibtex ##
+~~~
+@article{peyron_mctr,
+author = {Quentin Peyron and Quentin Boehler and Patrick Rougeot and Pierre Roux and Bradley J. Nelson and Nicolas Andreff and Kanty Rabenorosoa and Pierre Renaud},
+title ={Magnetic concentric tube robots: introduction and analysis},
+journal = {The International Journal of Robotics Research},
+volume = {0},
+number = {0},
+pages = {02783649211071113},
+year = {0},
+doi = {10.1177/02783649211071113}
+}
+~~~
