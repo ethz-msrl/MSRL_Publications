@@ -1,0 +1,61 @@
+---
+layout: publication
+title:  A Simulation Framework for Magnetic Continuum Robots
+year: 2022
+authors: 
+   - Roland Dreyfus
+   - Quentin Boehler
+   - Bradley J. Nelson
+   
+# at least one first author needs to match a name in authors
+# if authors are sharing first author credits, you can list them here
+first_authors: 
+    - Roland Dreyfus
+link: https://ieeexplore.ieee.org/document/9810340
+# open the pdf version of your paper on research collection and collect the link there
+rc_pdf_link: http://hdl.handle.net/20.500.11850/555813
+# if the paper is already published
+publication_date: 2022-06-29
+publication: IEEE Robotics and Automation Letters
+# set to published if accepted for publication
+# set to in review if the paper has not been accepted but you still want a web presence for it
+# set to preprint if the paper is only published on a preprint server like arxiv
+status: published
+# if there is a youtube video, put it here
+# Make sure to use the embed link and not the youtube link
+# if not, delete this line
+youtube_link: https://youtube.com/embed/uHB3EfC3-rk
+github_link: https://github.com/ethz-msrl/mCR_simulator
+# if the paper is published, put the DOI link to the published version
+doi: https://doi.org/10.1109/LRA.2022.3187249
+# pub a list of meaningful tags
+# use hyphens between words
+# use tags that are already listed on the site as much as possible
+# Use hyphens and not spaces
+tags: [ remote-magnetic-navigation, magnetic-catheter, continuum-robots, kinematics, soft-robotics, simulation]
+categories: publication
+---
+
+<!--
+# The following are only suggestions of content that you can include on your publication.  
+# Feel free to format this part as you prefer.)
+-->
+
+## Abstract ##
+Remote magnetic navigation is a technology used to robotically steer magnetic medical instruments, such as magnetic catheters and guidewires, for minimally invasive surgery. The ability to model and simulate the behavior of these magnetic instruments in complex anatomies is important for their clinical use in many ways. Simulation frameworks can improve their design, characterization, and automatic control capabilities, as well as provide training simulators for physicians. In this work we introduce a new simulation framework that accounts for both magnetic actuation and interactions forces with meshed collision models. The simulations are validated experimentally in planar rigid models using a pre-clinical electromagnetic navigation system. We also demonstrate the use of our framework to build training simulators for two endovascular navigation tasks including the exploration of the aortic arch and the internal carotid artery.
+
+## Code and Datasets ##
+All code and data from this publication is available as open source software [here](https://github.com/ethz-msrl/Magnetic_Field_Interpolation).
+
+## Bibtex ##
+~~~
+@article{3187249,
+  author={Dreyfus, Roland and Boehler, Quentin and Nelson, Bradley J.},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={A Simulation Framework for Magnetic Continuum Robots}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-7},
+  doi={10.1109/LRA.2022.3187249}}
+~~~
