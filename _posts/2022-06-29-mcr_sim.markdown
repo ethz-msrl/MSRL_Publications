@@ -45,7 +45,7 @@ categories: publication
 Remote magnetic navigation is a technology used to robotically steer magnetic medical instruments, such as magnetic catheters and guidewires, for minimally invasive surgery. The ability to model and simulate the behavior of these magnetic instruments in complex anatomies is important for their clinical use in many ways. Simulation frameworks can improve their design, characterization, and automatic control capabilities, as well as provide training simulators for physicians. In this work we introduce a new simulation framework that accounts for both magnetic actuation and interactions forces with meshed collision models. The simulations are validated experimentally in planar rigid models using a pre-clinical electromagnetic navigation system. We also demonstrate the use of our framework to build training simulators for two endovascular navigation tasks including the exploration of the aortic arch and the internal carotid artery.
 
 ## Code and Datasets ##
-All code and data from this publication is available as open source software [here](https://github.com/ethz-msrl/Magnetic_Field_Interpolation).
+All code and data from this publication is available as open source software [here](https://github.com/ethz-msrl/mCR_simulator).
 
 ## Bibtex ##
 ~~~
