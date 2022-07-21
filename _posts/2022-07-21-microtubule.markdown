@@ -16,7 +16,7 @@ first_authors:
     - Hongri Gu
 link: https://www.nature.com/articles/s42256-022-00510-7
 # open the pdf version of your paper on research collection and collect the link there
-rc_pdf_link: link to the preprint stored on ETH research collection.
+rc_pdf_link: http://hdl.handle.net/20.500.11850/559356
 # if the paper is already published
 publication_date: 2022-07-21
 publication: Nature Machine Intelligence
