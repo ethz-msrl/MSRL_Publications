@@ -29,7 +29,7 @@ Magnetic cilia carpets with programmable metachronal waves. Nature Communication
 doi: https://doi.org/10.1038/s41467-020-16458-4"
 
 
-tags: [ cilia, metachronal-waves ]
+tags: [ cilia, metachronal-waves, particle-transport]
 categories: publication
 ---
 
