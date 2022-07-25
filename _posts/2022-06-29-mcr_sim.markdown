@@ -49,7 +49,7 @@ All code and data from this publication is available as open source software [he
 
 ## News ##
 
-### ICRA 2022, Kyoto ###
+### IROS 2022, Kyoto ###
 
 Our paper is accepted for presentation at [IROS 2022 in Kyoto](https://iros2022.org/)!
 
