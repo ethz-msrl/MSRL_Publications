@@ -43,7 +43,7 @@ categories: publication
 ## Abstract ##
 Remote magnetic navigation offers an ideal platform for automated catheter navigation. Magnetically guided catheters show great dexterity and can reach locations that are otherwise challenging to access. By automating aspects of catheterization procedures, we can simplify and expedite the procedure to allow surgeons to focus on other critical tasks during the surgery. In this article, we describe an automation strategy that is based on the center line of extracted and registered vascular geometries. Position feedback is accomplished with a Hall-effect sensor embedded near the distal end of the catheter. Sensor measurements are compared to the magnetic field predicted by a linear model of the electromagnetic navigation system. By defining specific magnetic field gradients and applying the known vascular geometry, the magnetic fields can be utilized for the simultaneous navigation and localization of the catheter. This eliminates the need for other external, dedicated mapping systems, and the use of fluoroscopy imaging is minimized. The concept is tested in 2d vascular models and the accuracy of the localization is assessed with overhead camera tracking.
 
-## ICRA 2022, Kyoto ##
+## IROS 2022, Kyoto ##
 
 Our paper is accepted for presentation at [IROS 2022 in Kyoto](https://iros2022.org/)!
 
