@@ -47,6 +47,14 @@ Remote magnetic navigation is a technology used to robotically steer magnetic me
 ## Code and Datasets ##
 All code and data from this publication is available as open source software [here](https://github.com/ethz-msrl/mCR_simulator).
 
+## Presentation at the SOFA Week 2021
+
+We presented early results of the simulator during the [SOFA Week 2021](https://www.sofa-framework.org/about/news/the-sofa-week-2021-experience/) organized by the [SOFA Consortium](https://www.sofa-framework.org/).
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TVon1B-vXf4" allowfullscreen></iframe>
+</div>
+
 ## Bibtex ##
 ~~~
 @article{3187249,
