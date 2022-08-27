@@ -10,8 +10,8 @@ authors:
    - Bradley J. Nelson
 first_authors: Quentin Boehler
 link: https://doi.org/10.1109/TRO.2022.3197107
-rc_pdf_link: #TO DO
-publication_date: 2022-08-05
+rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/566922/Workspace_eMNS_TRO_final.pdf
+publication_date: 2022-08-26
 publication: IEEE Transactions on Robotics
 status: published
 github_link: https://github.com/ethz-msrl/Workspace_eMNS
