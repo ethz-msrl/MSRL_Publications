@@ -1,0 +1,30 @@
+---
+layout: publication
+title:  "On the Workspace of Electromagnetic Navigation Systems"
+year: 2022
+authors: 
+   - Quentin Boehler
+   - Simone Gervasoni
+   - Samuel L. Charreyron
+   - Christophe Chautems
+   - Bradley J. Nelson
+first_authors: Quentin Boehler
+link: https://doi.org/10.1109/TRO.2022.3197107
+rc_pdf_link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/566922/Workspace_eMNS_TRO_final.pdf
+publication_date: 2022-08-26
+publication: IEEE Transactions on Robotics
+status: published
+github_link: https://github.com/ethz-msrl/Workspace_eMNS
+doi: https://doi.org/10.1109/TRO.2022.3197107
+tags: [ remote-magnetic-navigation, emns, workspace]
+categories: publication
+---
+
+
+## Abstract ##
+In remote magnetic navigation, a magnetic navigation system is used to generate magnetic fields to apply mechanical wrenches to steer a magnetic object. This technique can be applied to navigate untethered micro- and nanorobots, as well as tethered magnetic surgical tools for minimally invasive medicine. The design and characterization of these systems have been extensively investigated over the past decade. The determination of the region in space in which these systems can operate has yet to be formalized within the research community. This region is commonly referred to as the "workspace" and constitutes a central concept for any class of robotic system. We focus on magnetic navigation systems comprised of electromagnets and propose a first set of definitions for a magnetic workspace, a methodology to determine it, and evaluation metrics to analyse its characteristics. Our methodology and tools are illustrated with several examples of planar and spatial electromagnetic magnetic navigation systems for both didactic and realistic navigation scenarios.
+
+## Code and Datasets ##
+All code and data from this publication is available as open source software on [GitHub](https://github.com/ethz-msrl/Workspace_eMNS) and in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1). This code is composed of Jupyter notebooks that can be used to determine and analyse the workspace of electromagnetic navigation systems.
+
+![CardioMag eMNS - Available magnetic field](/images/cmag_available_field_anim.gif "CardioMag eMNS - Available magnetic field")
