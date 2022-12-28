@@ -1,6 +1,6 @@
 ---
 layout: publication
-title:  Thermoset Shape Memory Polymer Variable Stiffness 4D Robotic Catheters
+title:  Shape memory polymer variable stiffness magnetic catheters with hybrid stiffness control
 year: 2022 
 authors: 
    - Michael Mattmann
