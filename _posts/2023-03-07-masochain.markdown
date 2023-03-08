@@ -1,7 +1,7 @@
 ---
 layout: publication
 title:  "Self-folding soft-robotic chains with reconfigurable shapes and functionalities"
-year: 2020
+year: 2023
 authors: 
    - Hongri Gu
    - Marino Möckli
