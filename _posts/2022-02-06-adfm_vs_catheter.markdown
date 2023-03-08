@@ -31,7 +31,7 @@ doi: https://doi.org/10.1109/TRO.2020.3047053
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ variable-stiffness, magnetic-catheter, continuum-robots, conductive-polymer]
+tags: [ variable-stiffness, magnetic-catheters, continuum-robots, conductive-polymer]
 categories: publication
 ---
 
