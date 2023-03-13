@@ -31,7 +31,7 @@ doi: https://doi.org/10.1109/LRA.2022.3181420
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ remote-magnetic-navigation, magnetic-catheter, continuum-robots, localization]
+tags: [ remote-magnetic-navigation, magnetic-catheters, continuum-robots, localization]
 categories: publication
 ---
 
