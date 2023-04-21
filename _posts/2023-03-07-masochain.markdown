@@ -27,3 +27,9 @@ categories: publication
 ## Abstract ##
 
 Magnetic continuum soft robots can actively steer their tip under an external magnetic field, enabling them to effectively navigate in complex in vivo environments and perform minimally invasive interventions. However, the geometries and functionalities of these robotic tools are limited by the inner diameter of the supporting catheter as well as the natural orifices and access ports of the human body. Here, we present a class of magnetic soft-robotic chains (MaSoChains) that can self-fold into large assemblies with stable configurations using a combination of elastic and magnetic energies. By pushing and pulling the MaSoChain relative to its catheter sheath, repeated assembly and disassembly with programmable shapes and functions are achieved. MaSoChains are compatible with state-of-the-art magnetic navigation technologies and provide many desirable features and functions that are difficult to realize through existing surgical tools. This strategy can be further customized and implemented for a wide spectrum of tools for minimally invasive interventions.
+
+## Video ##
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RgZj5eAaPSE" allowfullscreen></iframe>
+</div>
