@@ -22,7 +22,7 @@ publication: International Symposium on Medical Robotics (ISMR)
 # set to preprint if the paper is only published on a preprint server like arxiv
 status: published
 # if the paper is published, put the DOI link to the published version
-doi: 10.1109/ISMR57123.2023.10130271
+doi: https://doi.org/10.1109/ISMR57123.2023.10130271
 # pub a list of meaningful tags
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
@@ -37,6 +37,8 @@ categories: publication
 -->
 ## Abstract ##
 Cardiac arrhythmia refers to a condition of an abnormal or irregular heartbeat, which usually results in disturbed blood flow. This can lead to a reduced cardiac output and an increased risk for blood clot formation, which can cause life-threatening heart failure or stroke. Radio-frequency catheter ablation is becoming the treatment of choice for most cardiac arrhythmias. To recover the normal heartbeat, the abnormal excitation sites inside the heart are first identified and then isolated or destroyed by applying radio-frequency energy through the use of an ablation catheter. The design and precise navigation of these ablation catheters is currently a topic of considerable interest. However, the lack of a standardized evaluation setup for catheter ablation makes it challenging to properly compare different systems. In this paper, we present an evaluation platform to tackle this problem. The setup consists of a 3D printed anatomical model, a tracking system for the catheter and a dedicated graphical user interface. The performance of a catheter ablation system can then be assessed based on various performance metrics, such as the procedure duration, contact stability or the ablation angle. Finally, we conduct a proof-of-concept study to demonstrate the usefulness of the proposed setup.
+
+
 
 ## Bibtex ##
 ~~~
