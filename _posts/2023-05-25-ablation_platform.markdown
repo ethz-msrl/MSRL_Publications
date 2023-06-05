@@ -14,6 +14,7 @@ authors:
 first_authors: 
     - Florian Heemeyer
 link: https://ieeexplore.ieee.org/abstract/document/10130271
+rc_pdf_link: "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/615040/ismr_cardiac_ablation.pdf"
 # if the paper is already published
 publication_date: 2023-05-25
 publication: International Symposium on Medical Robotics (ISMR)
