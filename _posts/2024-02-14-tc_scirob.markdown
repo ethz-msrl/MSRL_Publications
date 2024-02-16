@@ -1,0 +1,54 @@
+---
+layout: publication
+title:  Dexterous helical magnetic robot for improved endovascular access
+year: 2024
+authors: 
+   - Roland Dreyfus
+   - Quentin Boehler
+   - Sean Lyttle
+   - Philipp Gruber
+   - Jonas Lussi
+   - Christophe Chautems
+   - Simone Gervasoni
+   - Jatta Berberat
+   - Dominic Seibold
+   - Nicole Ochsenbein-Kölble
+   - Michael Reinehr
+   - Miriam Weisskopf
+   - Luca Remonda
+   - Bradley J. Nelson
+   
+# at least one first author needs to match a name in authors
+# if authors are sharing first author credits, you can list them here
+first_authors: 
+    - Roland Dreyfus
+link: https://www.science.org/doi/10.1126/scirobotics.adh0298
+# open the pdf version of your paper on research collection and collect the link there
+rc_pdf_link: https://www.research-collection.ethz.ch/handle/20.500.11850/659728
+# if the paper is already published
+publication_date: 2024-02-14
+publication: Science Robotics
+# set to published if accepted for publication
+# set to in review if the paper has not been accepted but you still want a web presence for it
+# set to preprint if the paper is only published on a preprint server like arxiv
+status: published
+# if the paper is published, put the DOI link to the published version
+doi: https://doi.org/10.1126/scirobotics.adh0298
+# pub a list of meaningful tags
+# use hyphens between words
+# use tags that are already listed on the site as much as possible
+# Use hyphens and not spaces
+tags: [ continuum-robots, remote-magnetic-navigation]
+categories: publication
+---
+
+
+
+## Abstract ##
+Treating vascular diseases in the brain requires access to the affected region inside the body. This is usually accomplished through a minimally invasive technique that involves the use of long, thin devices, such as wires and tubes, that are manually maneuvered by a clinician within the bloodstream. By pushing, pulling, and twisting, these devices are navigated through the tortuous pathways of the blood vessels. The outcome of the procedure heavily relies on the clinician’s skill and the device’s ability to navigate to the affected target region in the bloodstream, which is often inhibited by tortuous blood vessels. Sharp turns require high flexibility, but this flexibility inhibits translation of proximal insertion to distal tip advancement. We present a highly dexterous, magnetically steered continuum robot that overcomes pushability limitations through rotation. A helical protrusion on the device’s surface engages with the vessel wall and translates rotation to forward motion at every point of contact. An articulating magnetic tip allows for active steerability, enabling navigation from the aortic arch to millimeter-sized arteries of the brain. The effectiveness of the magnetic continuum robot has been demonstrated through successful navigation in models of the human vasculature and in blood vessels of a live pig.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tJDAjdHsawA" allowfullscreen></iframe>
+</div>
+
+
