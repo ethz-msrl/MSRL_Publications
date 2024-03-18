@@ -6,7 +6,7 @@ authors:
    - Michelle Mattille
    - Quentin Boehler
    - Jonas Lussi
-   - Nicole Ochsenbein-Kölble
+   - Nicole Ochsenbein
    - Ueli Moehrlen
    - Bradley J. Nelson
    
