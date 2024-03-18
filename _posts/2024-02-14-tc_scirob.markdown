@@ -12,7 +12,7 @@ authors:
    - Simone Gervasoni
    - Jatta Berberat
    - Dominic Seibold
-   - Nicole Ochsenbein-Kölble
+   - Nicole Ochsenbein
    - Michael Reinehr
    - Miriam Weisskopf
    - Luca Remonda
