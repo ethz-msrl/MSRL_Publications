@@ -1,0 +1,46 @@
+---
+layout: publication
+title:  Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling
+year: 2023 
+authors: 
+   - Denis von Arx
+   - Harun Torlakcik
+   - Minsoo Kim
+   - Salvador Pane
+   - Bradley J. Nelson
+   - Quentin Boehler
+   
+# at least one first author needs to match a name in authors
+# if authors are sharing first author credits, you can list them here
+first_authors: 
+    - Denis von Arx
+link: https://doi.org/10.1109/LRA.2024.3391696
+# open the pdf version of your paper on research collection and collect the link there
+rc_pdf_link: https://www.research-collection.ethz.ch/handle/20.500.11850/669729
+# if the paper is already published
+publication_date: 2024-04-19
+publication: IEEE Robotics and Automation Letters 
+# set to published if accepted for publication
+# set to in review if the paper has not been accepted but you still want a web presence for it
+# set to preprint if the paper is only published on a preprint server like arxiv
+status: published
+# if there is a youtube video, put it here
+# Make sure to use the embed link and not the youtube link
+# if not, delete this line
+# youtube_link: https:/youtube.com/video
+# if there is a github project associated with this paper, put the link here
+# if not, delete this line
+# github_link: https://github.com/project
+# if the paper is published, put the DOI link to the published version
+doi: https://doi.org/10.1109/LRA.2024.3391696
+# pub a list of meaningful tags
+# use hyphens between words
+# use tags that are already listed on the site as much as possible
+# Use hyphens and not spaces
+tags: [ remote-magnetic-navigation, magnetic-decoupling, resonance]
+categories: publication
+---
+
+
+## Abstract ##
+Resonant electromagnetic navigation systems generate controllable oscillating and rotating magnetic fields using resonant electronic networks. This modality holds great potential to control untethered magnetic robots remotely for medical applications using fast rotating magnetic fields. However, the performance of these systems is limited at increasing frequencies due to the effect of mutual inductance between their electromagnets. Various effects can also hinder the accuracy of the field generation at increased frequencies. This work addresses these issues through two main contributions: (1) the use of a magnetic decoupling network to significantly reduce the mutual impedances between the channels of the system, and (2) the use of a real time estimation and control method for the amplitudes and phases of the currents for error-free current tracking. These are demonstrated on a system composed of three electromagnets to generate rotating magnetic fields of up to 424 Hz in frequency in an arbitrary direction in an open workspace. An increase in field strength of up to 225% is demonstrated. The proposed method is used to control a magnetic robotic drill, where a significant improvement in drilling performance is achieved.
