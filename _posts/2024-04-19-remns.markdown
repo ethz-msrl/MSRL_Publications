@@ -37,7 +37,7 @@ doi: https://doi.org/10.1109/LRA.2024.3391696
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ remote-magnetic-navigation, magnetic-decoupling, resonance]
+tags: [ remote-magnetic-navigation, magnetic-decoupling, emns]
 categories: publication
 ---
 
