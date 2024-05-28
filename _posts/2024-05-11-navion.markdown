@@ -43,7 +43,7 @@ status: published
 # if not, delete this line
 # github_link: https://github.com/project
 # if the paper is published, put the DOI link to the published version
-doi: ttps://doi.org/10.1002/adma.202310701
+doi: https://doi.org/10.1002/adma.202310701
 # pub a list of meaningful tags
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
