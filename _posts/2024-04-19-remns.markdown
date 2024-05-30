@@ -44,3 +44,11 @@ categories: publication
 
 ## Abstract ##
 Resonant electromagnetic navigation systems generate controllable oscillating and rotating magnetic fields using resonant electronic networks. This modality holds great potential to control untethered magnetic robots remotely for medical applications using fast rotating magnetic fields. However, the performance of these systems is limited at increasing frequencies due to the effect of mutual inductance between their electromagnets. Various effects can also hinder the accuracy of the field generation at increased frequencies. This work addresses these issues through two main contributions: (1) the use of a magnetic decoupling network to significantly reduce the mutual impedances between the channels of the system, and (2) the use of a real time estimation and control method for the amplitudes and phases of the currents for error-free current tracking. These are demonstrated on a system composed of three electromagnets to generate rotating magnetic fields of up to 424 Hz in frequency in an arbitrary direction in an open workspace. An increase in field strength of up to 225% is demonstrated. The proposed method is used to control a magnetic robotic drill, where a significant improvement in drilling performance is achieved.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RFBlCvb51JY" allowfullscreen></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fRKeBuq5Blc" allowfullscreen></iframe>
+</div>
