@@ -33,7 +33,7 @@ doi: https://doi.org/10.1002/aisy.202200182
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ remote-magnetic-navigation, laser-ablation, ttts, fetal-surgery, visual-servoing, medical-robotics]
+tags: [ remote-magnetic-navigation, laser-ablation, ttts, magnetic-endoscope, fetal-surgery, visual-servoing, medical-robotics]
 categories: publication
 ---
 

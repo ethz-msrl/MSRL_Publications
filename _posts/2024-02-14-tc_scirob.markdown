@@ -38,7 +38,7 @@ doi: https://doi.org/10.1126/scirobotics.adh0298
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ continuum-robots, remote-magnetic-navigation]
+tags: [ continuum-robots, remote-magnetic-navigation, in-vivo]
 categories: publication
 ---
 

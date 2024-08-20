@@ -48,7 +48,7 @@ doi: https://doi.org/10.1002/adma.202310701
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ remote-magnetic-navigation, emns]
+tags: [ remote-magnetic-navigation, emns, in-vivo]
 categories: publication
 ---
 
