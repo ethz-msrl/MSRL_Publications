@@ -40,7 +40,7 @@ doi: https://doi.org/10.1002/aisy.202400522
 # use hyphens between words
 # use tags that are already listed on the site as much as possible
 # Use hyphens and not spaces
-tags: [ remote-magnetic-navigation, magnetic-endoscope, telesurgery, in-vivo]
+tags: [ remote-magnetic-navigation, magnetic-endoscope, gastroscopy, telesurgery, in-vivo]
 categories: publication
 ---
 
