@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teleoperated Magnetic Endoscopy: A Case Study and Perspective
+title: Teleoperated Magnetic Endoscopy - A Case Study and Perspective
 year: 2024
 authors: 
    - Alexandre Mesot
