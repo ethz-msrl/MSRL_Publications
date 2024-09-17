@@ -19,6 +19,7 @@ rc_pdf_link: https://www.research-collection.ethz.ch/handle/20.500.11850/602176
 publication_date: 2023-03-07
 publication: Nature Communications
 status: published
+doi: https://doi.org/10.1038/s41467-023-36819-z
 
 tags: [ magnetic-catheters, medical-robotics, soft-robotics, continuum-robots]
 categories: publication
