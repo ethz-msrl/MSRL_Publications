@@ -44,6 +44,9 @@ layout: default
 
         {{ page.publication }}, {{ page.year}}
     </div>
+    {% if page.doi %}
+    <div class='altmetric-embed' data-doi='{{ page.doi }}'></div>
+    {% endif %}
     {% if page.tags %}
     <div class="subject-tags mt-2" >
         {% for tag in page.tags %} 
