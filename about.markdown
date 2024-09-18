@@ -14,5 +14,12 @@ scales. MSRL research develops the tools and processes required to fabricate and
 nanometer scale robotic components. Many of these systems are used for robotic exploration within biomedical and
 biological domains.
 
+<h1 class="mt-4">Contact</h1>
+
+<a href="https://msrl.ethz.ch"><i class="fab fa-globa"></i> Website</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/multi-scale-robotics-lab"><i class="fab fa-linkedin"></i> LinkedIn</a>&nbsp;&nbsp;
+<a href="https://github.com/ethz-msrl"><i class="fab fa-github"></i> GitHub</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCv-ks5XkUEnb2WTO6UsOQcw"><i class="fab fa-youtube"></i> Youtube</a>&nbsp;&nbsp;
+
 This page is generated using [Jekyll](https://jekyllrb.com/) and is styled using
 [Bootstrap](https://getbootstrap.com/).
