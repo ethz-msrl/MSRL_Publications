@@ -15,8 +15,8 @@ publication_date: 2019-10-30
 publication: Science Robotics
 status: published
 citation: "Gu, H. et al. (2019). 
-Magnetic quadrupole assemblies with arbitrary shapes and magnetizations. Science Robotics, 4(35).
-doi: https://doi.org/10.1126/scirobotics.aax8977"
+Magnetic quadrupole assemblies with arbitrary shapes and magnetizations. Science Robotics, 4(35)."
+doi: https://doi.org/10.1126/scirobotics.aax8977
 
 
 tags: [ magnetic-quadrupole, magnetic-assembly ]

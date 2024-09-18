@@ -19,8 +19,8 @@ rc_pdf_link: "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11
 publication: IEEE Transactions on Biomedical Engineering
 status: published
 citation: "Charreyron, S. L., Boehler, Q., Danun, A., Mesot, A., Becker, M., & Nelson, B. J. (2020). A Magnetically
-Navigated Microcannula for Subretinal Injections. IEEE Transactions on Biomedical Engineering.
-doi: https://doi.org/10.1109/tbme.2020.2996013"
+Navigated Microcannula for Subretinal Injections. IEEE Transactions on Biomedical Engineering."
+doi: https://doi.org/10.1109/tbme.2020.2996013
 tags: [ophthalmology, magnetic-catheters, subretinal, medical-robotics]
 categories: publication
 ---

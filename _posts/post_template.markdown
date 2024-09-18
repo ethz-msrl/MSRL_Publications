@@ -1,7 +1,7 @@
 ---
 layout: publication
 published: false # remove this line on your post 
-title:  The Title of your Paper
+title:  "The Title of your Paper"
 year: yyyy 
 authors: 
    - First Author

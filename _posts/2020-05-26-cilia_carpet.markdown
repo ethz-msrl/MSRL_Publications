@@ -25,8 +25,8 @@ publication_date: 2020-05-26
 publication: Nature Communications
 status: published
 citation: "Gu, H. et al. (2020). 
-Magnetic cilia carpets with programmable metachronal waves. Nature Communications , 11(1), 2637.
-doi: https://doi.org/10.1038/s41467-020-16458-4"
+Magnetic cilia carpets with programmable metachronal waves. Nature Communications , 11(1), 2637."
+doi: https://doi.org/10.1038/s41467-020-16458-4
 
 
 tags: [ cilia, metachronal-waves, particle-transport]

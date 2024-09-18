@@ -1,6 +1,6 @@
 ---
 layout: publication
-title:  Magnetic Concentric Tube Robots - Introduction and Analysis
+title:  "Magnetic Concentric Tube Robots: Introduction and Analysis"
 year: 2022 
 authors: 
    - Quentin Peyron

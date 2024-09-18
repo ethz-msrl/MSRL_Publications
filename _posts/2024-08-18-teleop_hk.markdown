@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teleoperated Magnetic Endoscopy - A Case Study and Perspective
+title: "Teleoperated Magnetic Endoscopy: A Case Study and Perspective"
 year: 2024
 authors: 
    - Alexandre Mesot
@@ -44,6 +44,14 @@ tags: [ remote-magnetic-navigation, magnetic-endoscope, gastroscopy, telesurgery
 categories: publication
 ---
 
-
 ## Abstract ##
 Teleoperated robotic surgery is a rapidly growing field that promises to overcome geographical barriers and share expertise over long distances for a variety of minimally invasive procedures. A particularly promising technology for teleoperation is robotic magnetic navigation. In contrast to conventional surgical robots, a robotic magnetic navigation system generates external magnetic fields to safely and dexterously steer soft magnetic devices within the human body, enabling a versatile, economical, and accessible telesurgery platform for a variety of procedures. This perspective highlights the recent research efforts in robotic magnetic platforms for telesurgery and their translation to clinical settings in the context of endoscopic procedures. This discussion is supported by a case study performed at the Multi-Scale Medical Robotics Center in Hong Kong, where an in vivo gastroscopy in a porcine model is performed in tandem with two operators, alternating between a clinician controlling the procedure from the operating room in Hong Kong and a remote expert controlling the procedure from an operator console in Zurich. The achievements and challenges of this study highlight the capabilities and future potential of robotic magnetic navigation for telesurgery.
+
+## Media coverage ##
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Qy0F4xYLgOY" allowfullscreen></iframe>
+</div>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eewaPf--aE8?si=XhyVyL7xiC6I-EHq" allowfullscreen></iframe>
+</div>
