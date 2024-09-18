@@ -7,6 +7,8 @@ email: email@ethz.ch
 github: https://www.github.com/user
 google_scholar: https://scholar.google.com/citations?hl=en&user=kbolvN4AAAAJ
 researchgate: https://www.researchgate.net/profile/user
+orcid: https://orcid.org/
+linkedin: https://www.linkedin.com/
 # the image should be a square 400x400 image and stored in the images folder
 img_filename: image.jpg
 # use marks <p> to delimit paragraphs
