@@ -36,7 +36,7 @@
         <div class='inline-block'><a href="{{post.url}}"><i class="fas fa-link"></i> Project Page</a>&nbsp;&nbsp;</div>
         <div class='inline-block'>
             {% if post.doi %}
-            <div class='altmetric-embed' data-hide-no-mentions='true' data-doi='{{ post.doi }}'></div>
+            <div class='altmetric-embed' data-hide-no-mentions='true' data-badge-popover='bottom' data-doi='{{ post.doi }}'></div>
             {% endif %}
         </div>
     </div>
